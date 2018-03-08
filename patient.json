@@ -1,0 +1,482 @@
+{"PFB2ABB23C9D04D09846449BF0B982F0F":{"General":{"Gender":"Male","DOB":"1947-12-28","Race":"02:45:40.547","MaritalStatus":"Unknown","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1968-10-07 
+11:15:49.617","EndDate":"1968-10-10 20:48:21.037","PrimaryDiagnosisCode":"M05.272","PrimaryDiagnosisDescription":"Rheumatoid vasculitis with rheumatoid arthritis of left ankle and foot"},"Visit2":{"StartDate":"1974-06-11 
+04:59:26.377","EndDate":"1974-06-13 15:31:26.577","PrimaryDiagnosisCode":"D44.6","PrimaryDiagnosisDescription":"Neoplasm of uncertain behavior of carotid body"},"Visit3":{"StartDate":"2009-11-09 
+12:52:06.760","EndDate":"2009-11-26 09:56:15.697","PrimaryDiagnosisCode":"C18.7","PrimaryDiagnosisDescription":"Malignant neoplasm of sigmoid 
+colon"}}},"P64182B95EB724E2BBE778050B71498CE":{"General":{"Gender":"Male","DOB":"1952-01-18","Race":"19:51:12.917","MaritalStatus":"African","Language":"American"},"Administration":{"Visit1":{"StartDate":"1976-08-01 
+23:23:57.637","EndDate":"1976-08-11 13:43:09.947","PrimaryDiagnosisCode":"E10.32","PrimaryDiagnosisDescription":"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy"},"Visit2":{"StartDate":"1991-06-04 
+15:53:44.050","EndDate":"1991-06-08 13:56:33.150","PrimaryDiagnosisCode":"F45.4","PrimaryDiagnosisDescription":"Pain disorders related to psychological factors"},"Visit3":{"StartDate":"1994-11-11 
+06:22:43.417","EndDate":"1994-11-26 08:37:11.310","PrimaryDiagnosisCode":"C74.11","PrimaryDiagnosisDescription":"Malignant neoplasm of medulla of right adrenal gland"},"Visit4":{"StartDate":"2007-08-16 
+17:46:09.950","EndDate":"2007-08-21 00:47:01.493","PrimaryDiagnosisCode":"E08.51","PrimaryDiagnosisDescription":"Diabetes mellitus due to underlying condition with diabetic peripheral angiopathy without 
+gangrene"},"Visit5":{"StartDate":"2009-11-15 12:31:54.603","EndDate":"2009-11-24 21:47:12.637","PrimaryDiagnosisCode":"G32.0","PrimaryDiagnosisDescription":"Subacute combined degeneration of spinal cord in diseases classified 
+elsewhere"}}},"PDB22A4D97E4D485C916A9CD1386507FB":{"General":{"Gender":"Female","DOB":"1970-07-25","Race":"13:04:20.717","MaritalStatus":"Asian","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1998-05-24 
+12:03:34.250","EndDate":"1998-05-28 01:02:23.813","PrimaryDiagnosisCode":"M06.361","PrimaryDiagnosisDescription":"Rheumatoid nodule, right knee"},"Visit2":{"StartDate":"2000-05-06 21:39:48.557","EndDate":"2000-05-13 
+05:17:46.890","PrimaryDiagnosisCode":"E09.351","PrimaryDiagnosisDescription":"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with macular edema"},"Visit3":{"StartDate":"2007-12-06 
+17:56:19.800","EndDate":"2007-12-17 06:12:16.897","PrimaryDiagnosisCode":"F18.150","PrimaryDiagnosisDescription":"Inhalant abuse with inhalant-induced psychotic disorder with delusions"},"Visit4":{"StartDate":"2010-08-19 
+18:39:27.667","EndDate":"2010-09-06 02:33:35.107","PrimaryDiagnosisCode":"E09.62","PrimaryDiagnosisDescription":"Drug or chemical induced diabetes mellitus with skin 
+complications"}}},"P6E70D84DC75F477CBC379177C3698C66":{"General":{"Gender":"Male","DOB":"1979-01-04","Race":"05:45:29.580","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"2003-12-17 
+15:11:00.517","EndDate":"2004-01-05 00:28:50.210","PrimaryDiagnosisCode":"H26.21","PrimaryDiagnosisDescription":"Cataract with neovascularization"},"Visit2":{"StartDate":"2005-03-22 13:09:36.480","EndDate":"2005-04-07 
+15:07:19.083","PrimaryDiagnosisCode":"D13.4","PrimaryDiagnosisDescription":"Benign neoplasm of liver"},"Visit3":{"StartDate":"2006-10-31 17:04:40.573","EndDate":"2006-11-09 
+16:50:21.063","PrimaryDiagnosisCode":"E08.0","PrimaryDiagnosisDescription":"Diabetes mellitus due to underlying condition with hyperosmolarity"},"Visit4":{"StartDate":"2009-10-08 18:59:40.783","EndDate":"2009-10-27 
+15:31:42.900","PrimaryDiagnosisCode":"H81.02","PrimaryDiagnosisDescription":"MÃ©niÃ¨re's disease, left 
+ear"}}},"PC8556CC032FC4CA5A8CD9CCF38816167":{"General":{"Gender":"Female","DOB":"1921-04-11","Race":"11:39:49.197","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1944-07-10 
+16:52:53.910","EndDate":"1944-07-24 12:09:05.280","PrimaryDiagnosisCode":"Z12.13","PrimaryDiagnosisDescription":"Encounter for screening for malignant neoplasm of small intestine"},"Visit2":{"StartDate":"1949-03-20 
+13:15:57.363","EndDate":"1949-03-22 21:17:17.907","PrimaryDiagnosisCode":"Z95.810","PrimaryDiagnosisDescription":"Presence of automatic (implantable) cardiac defibrillator"},"Visit3":{"StartDate":"1984-09-08 
+20:50:03.823","EndDate":"1984-09-11 22:32:19.557","PrimaryDiagnosisCode":"M06.37","PrimaryDiagnosisDescription":"Rheumatoid nodule, ankle and foot"},"Visit4":{"StartDate":"2008-05-04 16:00:55.063","EndDate":"2008-05-08 
+04:09:22.260","PrimaryDiagnosisCode":"K50.813","PrimaryDiagnosisDescription":"Crohn's disease of both small and large intestine with 
+fistula"}}},"P7FD13988E58A4A5C868089AC200950FA":{"General":{"Gender":"Male","DOB":"1965-07-12","Race":"15:41:20.523","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1988-07-16 
+23:54:40.207","EndDate":"1988-07-22 15:51:38.123","PrimaryDiagnosisCode":"D35.5","PrimaryDiagnosisDescription":"Benign neoplasm of carotid body"},"Visit2":{"StartDate":"2001-03-11 01:42:18.373","EndDate":"2001-03-22 
+12:41:43.027","PrimaryDiagnosisCode":"C63.2","PrimaryDiagnosisDescription":"Malignant neoplasm of scrotum"},"Visit3":{"StartDate":"2002-03-05 05:16:46.127","EndDate":"2002-03-20 
+00:36:02.077","PrimaryDiagnosisCode":"M06.25","PrimaryDiagnosisDescription":"Rheumatoid bursitis, hip"},"Visit4":{"StartDate":"2011-11-27 09:47:20.783","EndDate":"2011-12-16 
+09:16:28.150","PrimaryDiagnosisCode":"D44.5","PrimaryDiagnosisDescription":"Neoplasm of uncertain behavior of pineal 
+gland"}}},"PC60FE675CA524C55A233F4B27E94987F":{"General":{"Gender":"Male","DOB":"1957-10-30","Race":"23:26:15.303","MaritalStatus":"Asian","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1979-05-09 
+20:25:53.737","EndDate":"1979-05-24 10:11:21.830","PrimaryDiagnosisCode":"D16.2","PrimaryDiagnosisDescription":"Benign neoplasm of long bones of lower limb"},"Visit2":{"StartDate":"2004-07-14 03:19:40.170","EndDate":"2004-07-30 
+02:13:48.567","PrimaryDiagnosisCode":"E11.3","PrimaryDiagnosisDescription":"Type 2 diabetes mellitus with ophthalmic complications"},"Visit3":{"StartDate":"2005-03-13 12:37:51.210","EndDate":"2005-03-17 
+15:57:22.823","PrimaryDiagnosisCode":"M90.86","PrimaryDiagnosisDescription":"Osteopathy in diseases classified elsewhere, lower leg"},"Visit4":{"StartDate":"2011-07-05 14:25:03.367","EndDate":"2011-07-22 
+02:08:27.870","PrimaryDiagnosisCode":"A83.6","PrimaryDiagnosisDescription":"Rocio virus 
+disease"}}},"PB39DC5ACE0034E6A91B6FC07625A1285":{"General":{"Gender":"Female","DOB":"1935-11-03","Race":"21:07:09.040","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1959-04-30 
+18:14:21.373","EndDate":"1959-05-07 17:33:47.207","PrimaryDiagnosisCode":"M06.041","PrimaryDiagnosisDescription":"Rheumatoid arthritis without rheumatoid factor, right hand"},"Visit2":{"StartDate":"1977-01-09 
+17:35:33.063","EndDate":"1977-01-11 21:02:57.457","PrimaryDiagnosisCode":"C93.01","PrimaryDiagnosisDescription":"Acute monoblastic/monocytic leukemia, in remission"},"Visit3":{"StartDate":"2001-12-19 
+15:17:51.363","EndDate":"2002-01-06 07:42:52.880","PrimaryDiagnosisCode":"M1A.352","PrimaryDiagnosisDescription":"Chronic gout due to renal impairment, left hip"},"Visit4":{"StartDate":"2004-06-14 
+21:38:27.687","EndDate":"2004-06-17 05:37:22.647","PrimaryDiagnosisCode":"F11","PrimaryDiagnosisDescription":"Opioid related disorders"},"Visit5":{"StartDate":"2009-11-16 20:32:48.250","EndDate":"2009-11-22 
+20:25:29.297","PrimaryDiagnosisCode":"M05.441","PrimaryDiagnosisDescription":"Rheumatoid myopathy with rheumatoid arthritis of right 
+hand"}}},"PFA157FA5F4884884BF87E144630D595C":{"General":{"Gender":"Female","DOB":"1932-11-01","Race":"06:19:56.577","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1952-11-10 
+06:35:45.963","EndDate":"1952-11-13 02:51:58.853","PrimaryDiagnosisCode":"M05.732","PrimaryDiagnosisDescription":"Rheumatoid arthritis with rheumatoid factor of left wrist without organ or systems 
+involvement"},"Visit2":{"StartDate":"1956-06-17 05:42:40.843","EndDate":"1956-06-26 09:13:45.457","PrimaryDiagnosisCode":"M06.34","PrimaryDiagnosisDescription":"Rheumatoid nodule, hand"},"Visit3":{"StartDate":"2004-10-08 
+15:25:48.703","EndDate":"2004-10-27 06:23:12.370","PrimaryDiagnosisCode":"J44.1","PrimaryDiagnosisDescription":"Chronic obstructive pulmonary disease with (acute) exacerbation"},"Visit4":{"StartDate":"2006-11-17 
+23:46:43.817","EndDate":"2006-11-20 20:47:59.633","PrimaryDiagnosisCode":"D14.0","PrimaryDiagnosisDescription":"Benign neoplasm of middle ear, nasal cavity and accessory sinuses"},"Visit5":{"StartDate":"2011-05-29 
+11:43:29.327","EndDate":"2011-06-07 14:13:53.000","PrimaryDiagnosisCode":"Z13.85","PrimaryDiagnosisDescription":"Encounter for screening for nervous system 
+disorders"}}},"PB7E9FC4C51824A34954ECEF5FC07E96D":{"General":{"Gender":"Female","DOB":"1985-12-11","Race":"02:48:16.907","MaritalStatus":"Unknown","Language":"Single"},"Administration":{"Visit1":{"StartDate":"2013-07-04 
+09:52:17.070","EndDate":"2013-07-06 11:22:53.843","PrimaryDiagnosisCode":"E10.630","PrimaryDiagnosisDescription":"Type 1 diabetes mellitus with periodontal 
+disease"}}},"P1A40AF35C6D44D46B475A15D84E8A9D5":{"General":{"Gender":"Male","DOB":"1949-01-10","Race":"15:37:35.543","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1974-09-30 
+08:07:27.190","EndDate":"1974-10-20 01:04:22.863","PrimaryDiagnosisCode":"F11","PrimaryDiagnosisDescription":"Opioid related disorders"},"Visit2":{"StartDate":"1975-04-13 09:23:14.533","EndDate":"1975-04-18 
+19:32:44.147","PrimaryDiagnosisCode":"H47.631","PrimaryDiagnosisDescription":"Disorders of visual cortex in (due to) neoplasm, right side of brain"},"Visit3":{"StartDate":"1991-07-09 06:10:35.900","EndDate":"1991-07-20 
+07:16:46.200","PrimaryDiagnosisCode":"C92.0","PrimaryDiagnosisDescription":"Acute myeloblastic leukemia"},"Visit4":{"StartDate":"2005-04-17 00:19:38.000","EndDate":"2005-05-01 
+13:44:30.923","PrimaryDiagnosisCode":"C41.0","PrimaryDiagnosisDescription":"Malignant neoplasm of bones of skull and face"},"Visit5":{"StartDate":"2011-12-18 15:07:45.877","EndDate":"2011-12-27 
+22:31:55.597","PrimaryDiagnosisCode":"M90.53","PrimaryDiagnosisDescription":"Osteonecrosis in diseases classified elsewhere, 
+forearm"}}},"PDA6CECFFDE134C4C919F64E1A2B76C9D":{"General":{"Gender":"Male","DOB":"1924-06-27","Race":"19:37:58.823","MaritalStatus":"Asian","Language":"Divorced"},"Administration":{"Visit1":{"StartDate":"1950-12-19 
+08:27:52.013","EndDate":"1950-12-26 02:02:24.627","PrimaryDiagnosisCode":"D13.1","PrimaryDiagnosisDescription":"Benign neoplasm of stomach"},"Visit2":{"StartDate":"1980-02-18 00:38:33.423","EndDate":"1980-02-25 
+01:30:17.310","PrimaryDiagnosisCode":"M02.35","PrimaryDiagnosisDescription":"Reiter's disease, hip"},"Visit3":{"StartDate":"2004-02-21 21:10:35.930","EndDate":"2004-03-09 
+18:32:58.217","PrimaryDiagnosisCode":"C71.4","PrimaryDiagnosisDescription":"Malignant neoplasm of occipital lobe"},"Visit4":{"StartDate":"2007-08-22 01:44:25.210","EndDate":"2007-09-04 
+09:53:45.340","PrimaryDiagnosisCode":"Z22.31","PrimaryDiagnosisDescription":"Carrier of bacterial disease due to meningococci"},"Visit5":{"StartDate":"2012-11-28 06:20:37.590","EndDate":"2012-12-09 
+05:30:51.537","PrimaryDiagnosisCode":"C47.2","PrimaryDiagnosisDescription":"Malignant neoplasm of peripheral nerves of lower limb, including 
+hip"}}},"P0A9BA3E4CF3C49C497745EEA2EE7D123":{"General":{"Gender":"Male","DOB":"1980-04-04","Race":"07:59:15.820","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"2007-03-06 
+02:24:48.650","EndDate":"2007-03-23 12:59:03.110","PrimaryDiagnosisCode":"F31.4","PrimaryDiagnosisDescription":"Bipolar disorder, current episode depressed, severe, without psychotic features"},"Visit2":{"StartDate":"2010-03-03 
+19:55:57.810","EndDate":"2010-03-21 03:41:00.950","PrimaryDiagnosisCode":"K76.5","PrimaryDiagnosisDescription":"Hepatic veno-occlusive 
+disease"}}},"P7C7884997798484BA0279FCDC4C0DADB":{"General":{"Gender":"Male","DOB":"1926-08-13","Race":"10:22:16.247","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1953-06-14 
+19:18:55.733","EndDate":"1953-07-03 23:58:55.237","PrimaryDiagnosisCode":"O10.113","PrimaryDiagnosisDescription":"Pre-existing hypertensive heart disease complicating pregnancy, third 
+trimester"},"Visit2":{"StartDate":"2003-09-25 19:24:39.883","EndDate":"2003-10-12 15:34:00.100","PrimaryDiagnosisCode":"E09.649","PrimaryDiagnosisDescription":"Drug or chemical induced diabetes mellitus with hypoglycemia 
+without 
+coma"},"Visit3":{"StartDate":"2008-08-17 00:44:16.073","EndDate":"2008-08-19 10:51:24.287","PrimaryDiagnosisCode":"D37.1","PrimaryDiagnosisDescription":"Neoplasm of uncertain behavior of 
+stomach"}}},"PC54B5AAD98E8472DBAA0638D9F3BD024":{"General":{"Gender":"Female","DOB":"1972-11-13","Race":"22:50:43.600","MaritalStatus":"African","Language":"American"},"Administration":{"Visit1":{"StartDate":"1994-09-02 
+23:34:00.473","EndDate":"1994-09-12 10:08:13.437","PrimaryDiagnosisCode":"N49.2","PrimaryDiagnosisDescription":"Inflammatory disorders of scrotum"},"Visit2":{"StartDate":"2010-03-26 18:58:41.957","EndDate":"2010-04-07 
+14:30:35.180","PrimaryDiagnosisCode":"I15.2","PrimaryDiagnosisDescription":"Hypertension secondary to endocrine 
+disorders"}}},"P6985D82432694D12A9DDB932D640E26E":{"General":{"Gender":"Female","DOB":"1967-10-27","Race":"03:58:29.027","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1990-11-11 
+23:29:02.147","EndDate":"1990-11-20 04:47:55.053","PrimaryDiagnosisCode":"I25.82","PrimaryDiagnosisDescription":"Chronic total occlusion of coronary artery"},"Visit2":{"StartDate":"2012-11-28 00:05:25.923","EndDate":"2012-12-09 
+01:21:28.267","PrimaryDiagnosisCode":"M26.6","PrimaryDiagnosisDescription":"Temporomandibular joint 
+disorders"}}},"PD8B53AA2795344779EA468400EBAAC5C":{"General":{"Gender":"Male","DOB":"1951-06-11","Race":"20:11:10.003","MaritalStatus":"African","Language":"American"},"Administration":{"Visit1":{"StartDate":"1973-11-09 
+10:52:09.587","EndDate":"1973-11-24 09:13:33.200","PrimaryDiagnosisCode":"C51.2","PrimaryDiagnosisDescription":"Malignant neoplasm of clitoris"},"Visit2":{"StartDate":"1988-09-09 13:00:15.817","EndDate":"1988-09-28 
+09:19:10.673","PrimaryDiagnosisCode":"C40.11","PrimaryDiagnosisDescription":"Malignant neoplasm of short bones of right upper limb"},"Visit3":{"StartDate":"1997-06-05 04:11:30.533","EndDate":"1997-06-21 
+12:18:07.373","PrimaryDiagnosisCode":"E08.42","PrimaryDiagnosisDescription":"Diabetes mellitus due to underlying condition with diabetic polyneuropathy"},"Visit4":{"StartDate":"2000-07-29 18:37:29.220","EndDate":"2000-08-15 
+02:45:51.030","PrimaryDiagnosisCode":"E08.32","PrimaryDiagnosisDescription":"Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy"},"Visit5":{"StartDate":"2012-02-07 
+00:47:47.213","EndDate":"2012-02-19 09:00:11.643","PrimaryDiagnosisCode":"M11.052","PrimaryDiagnosisDescription":"Hydroxyapatite deposition disease, left 
+hip"}}},"PDB92CDC6FA9B4492BC2C0C588AD78956":{"General":{"Gender":"Male","DOB":"1977-06-30","Race":"01:46:05.467","MaritalStatus":"Unknown","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1997-06-05 
+06:48:53.927","EndDate":"1997-06-14 21:35:34.520","PrimaryDiagnosisCode":"H75.01","PrimaryDiagnosisDescription":"Mastoiditis in infectious and parasitic diseases classified elsewhere, right 
+ear"},"Visit2":{"StartDate":"2007-09-10 02:39:23.393","EndDate":"2007-09-14 01:33:39.953","PrimaryDiagnosisCode":"I97.110","PrimaryDiagnosisDescription":"Postprocedural cardiac insufficiency following cardiac 
+surgery"},"Visit3":{"StartDate":"2009-11-22 18:08:25.160","EndDate":"2009-12-03 00:04:59.407","PrimaryDiagnosisCode":"B08.72","PrimaryDiagnosisDescription":"Yaba pox virus 
+disease"}}},"P25B786AF0F99478C9CFA0EA607E45834":{"General":{"Gender":"Male","DOB":"1926-08-20","Race":"00:21:38.870","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1945-10-01 
+21:44:39.203","EndDate":"1945-10-20 08:37:36.673","PrimaryDiagnosisCode":"M01.X5","PrimaryDiagnosisDescription":"Direct infection of hip in infectious and parasitic diseases classified 
+elsewhere"},"Visit2":{"StartDate":"1977-09-20 07:35:43.320","EndDate":"1977-09-25 05:07:13.843","PrimaryDiagnosisCode":"M63.831","PrimaryDiagnosisDescription":"Disorders of muscle in diseases classified elsewhere, right 
+forearm"},"Visit3":{"StartDate":"1988-07-20 08:25:47.050","EndDate":"1988-07-30 21:32:26.037","PrimaryDiagnosisCode":"G60.1","PrimaryDiagnosisDescription":"Refsum's disease"},"Visit4":{"StartDate":"2004-08-30 
+07:06:39.597","EndDate":"2004-09-15 23:36:15.990","PrimaryDiagnosisCode":"M05.75","PrimaryDiagnosisDescription":"Rheumatoid arthritis with rheumatoid factor of hip without organ or systems 
+involvement"},"Visit5":{"StartDate":"2006-02-25 15:05:06.463","EndDate":"2006-03-14 18:21:36.333","PrimaryDiagnosisCode":"E08.64","PrimaryDiagnosisDescription":"Diabetes mellitus due to underlying condition with 
+hypoglycemia"},"Visit6":{"StartDate":"2006-05-22 16:22:43.683","EndDate":"2006-06-01 12:00:05.460","PrimaryDiagnosisCode":"Z22.31","PrimaryDiagnosisDescription":"Carrier of bacterial disease due to 
+meningococci"},"Visit7":{"StartDate":"2009-02-24 23:03:26.627","EndDate":"2009-03-15 14:30:23.957","PrimaryDiagnosisCode":"M02.352","PrimaryDiagnosisDescription":"Reiter's disease, left 
+hip"}}},"PF00C64F82033464080FEF1F62CBE26A5":{"General":{"Gender":"Female","DOB":"1957-06-04","Race":"18:31:01.177","MaritalStatus":"African","Language":"American"},"Administration":{"Visit1":{"StartDate":"1983-03-07 
+11:12:50.257","EndDate":"1983-03-16 09:20:24.507","PrimaryDiagnosisCode":"E10.339","PrimaryDiagnosisDescription":"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular 
+edema"},"Visit2":{"StartDate":"2007-12-25 13:17:15.453","EndDate":"2008-01-12 12:44:08.357","PrimaryDiagnosisCode":"C40.81","PrimaryDiagnosisDescription":"Malignant neoplasm of overlapping sites of bone and articular cartilage 
+of right limb"}}},"PB70E5A76F2BC41E4B037CD4D9ABA0967":{"General":{"Gender":"Male","DOB":"1962-12-15","Race":"01:59:01.737","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1982-11-04 
+04:38:45.913","EndDate":"1982-11-10 22:46:46.303","PrimaryDiagnosisCode":"C19","PrimaryDiagnosisDescription":"Malignant neoplasm of rectosigmoid junction"},"Visit2":{"StartDate":"1986-06-28 09:01:05.200","EndDate":"1986-07-17 
+13:57:47.210","PrimaryDiagnosisCode":"B96.2","PrimaryDiagnosisDescription":"Escherichia coli [E. coli ] as the cause of diseases classified elsewhere"},"Visit3":{"StartDate":"1999-10-14 05:24:54.653","EndDate":"1999-10-29 
+01:06:47.197","PrimaryDiagnosisCode":"O98.611","PrimaryDiagnosisDescription":"Protozoal diseases complicating pregnancy, first trimester"},"Visit4":{"StartDate":"2008-06-02 22:32:16.550","EndDate":"2008-06-06 
+12:10:07.683","PrimaryDiagnosisCode":"C18.6","PrimaryDiagnosisDescription":"Malignant neoplasm of descending 
+colon"}}},"PF0B53A2C98CA415DB928E3FD0E52B22A":{"General":{"Gender":"Male","DOB":"1950-06-20","Race":"10:31:18.337","MaritalStatus":"African","Language":"American"},"Administration":{"Visit1":{"StartDate":"1968-09-30 
+23:25:10.637","EndDate":"1968-10-07 19:54:05.980","PrimaryDiagnosisCode":"I67.81","PrimaryDiagnosisDescription":"Acute cerebrovascular insufficiency"},"Visit2":{"StartDate":"1996-09-09 00:13:40.573","EndDate":"1996-09-12 
+20:12:05.497","PrimaryDiagnosisCode":"C94.02","PrimaryDiagnosisDescription":"Acute erythroid leukemia, in relapse"},"Visit3":{"StartDate":"2002-08-31 02:51:45.053","EndDate":"2002-09-07 
+00:13:23.420","PrimaryDiagnosisCode":"N18.4","PrimaryDiagnosisDescription":"Chronic kidney disease, stage 4 (severe)"},"Visit4":{"StartDate":"2002-09-16 20:00:22.203","EndDate":"2002-09-25 
+20:40:24.270","PrimaryDiagnosisCode":"O99.35","PrimaryDiagnosisDescription":"Diseases of the nervous system complicating pregnancy, childbirth, and the puerperium"},"Visit5":{"StartDate":"2007-03-12 
+11:04:02.373","EndDate":"2007-03-25 02:03:18.803","PrimaryDiagnosisCode":"D63","PrimaryDiagnosisDescription":"Anemia in chronic diseases classified elsewhere"},"Visit6":{"StartDate":"2012-04-04 
+02:50:01.320","EndDate":"2012-04-21 03:29:21.530","PrimaryDiagnosisCode":"I51.3","PrimaryDiagnosisDescription":"Intracardiac thrombosis, not elsewhere 
+classified"}}},"P1A8791E3A61C455A8DEE763EB90C9B2C":{"General":{"Gender":"Male","DOB":"1973-08-16","Race":"10:58:34.413","MaritalStatus":"Asian","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1992-06-27 
+03:00:01.530","EndDate":"1992-07-01 23:04:55.493","PrimaryDiagnosisCode":"C92.50","PrimaryDiagnosisDescription":"Acute myelomonocytic leukemia, not having achieved remission"},"Visit2":{"StartDate":"2005-07-24 
+07:42:39.330","EndDate":"2005-08-06 19:45:17.540","PrimaryDiagnosisCode":"T46.3X6","PrimaryDiagnosisDescription":"Underdosing of coronary vasodilators"},"Visit3":{"StartDate":"2011-12-16 08:24:10.400","EndDate":"2011-12-25 
+10:34:06.080","PrimaryDiagnosisCode":"C15.8","PrimaryDiagnosisDescription":"Malignant neoplasm of overlapping sites of 
+esophagus"}}},"P81C5B13BF6B24E5795936E7E4C13B2CE":{"General":{"Gender":"Female","DOB":"1930-05-28","Race":"02:59:42.857","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1953-11-24 
+22:57:18.750","EndDate":"1953-12-02 14:20:43.280","PrimaryDiagnosisCode":"I25.84","PrimaryDiagnosisDescription":"Coronary atherosclerosis due to calcified coronary lesion"},"Visit2":{"StartDate":"1979-09-12 
+10:06:30.157","EndDate":"1979-09-23 00:47:01.730","PrimaryDiagnosisCode":"M11.072","PrimaryDiagnosisDescription":"Hydroxyapatite deposition disease, left ankle and foot"},"Visit3":{"StartDate":"1994-08-23 
+07:08:59.557","EndDate":"1994-08-25 08:06:55.543","PrimaryDiagnosisCode":"H47.42","PrimaryDiagnosisDescription":"Disorders of optic chiasm in (due to) neoplasm"},"Visit4":{"StartDate":"2004-12-10 
+19:29:29.720","EndDate":"2004-12-17 19:58:02.123","PrimaryDiagnosisCode":"M12.162","PrimaryDiagnosisDescription":"Kaschin-Beck disease, left knee"},"Visit5":{"StartDate":"2006-03-30 17:22:23.473","EndDate":"2006-04-02 
+11:23:01.830","PrimaryDiagnosisCode":"M12.111","PrimaryDiagnosisDescription":"Kaschin-Beck disease, right shoulder"},"Visit6":{"StartDate":"2007-02-09 15:32:56.377","EndDate":"2007-02-28 
+16:28:37.023","PrimaryDiagnosisCode":"E79","PrimaryDiagnosisDescription":"Disorders of purine and pyrimidine metabolism"},"Visit7":{"StartDate":"2008-05-11 09:39:25.037","EndDate":"2008-05-17 
+01:33:42.903","PrimaryDiagnosisCode":"A42.0","PrimaryDiagnosisDescription":"Pulmonary 
+actinomycosis"}}},"P220C8D4313224A9DB890D426942A3649":{"General":{"Gender":"Male","DOB":"1971-03-13","Race":"18:31:24.877","MaritalStatus":"Asian","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1995-04-28 
+18:02:38.403","EndDate":"1995-05-03 22:27:12.163","PrimaryDiagnosisCode":"M63","PrimaryDiagnosisDescription":"Disorders of muscle in diseases classified elsewhere"},"Visit2":{"StartDate":"1997-09-21 
+11:20:02.637","EndDate":"1997-10-05 17:58:26.743","PrimaryDiagnosisCode":"M72","PrimaryDiagnosisDescription":"Fibroblastic disorders"},"Visit3":{"StartDate":"2000-09-23 17:16:09.810","EndDate":"2000-10-04 
+16:44:14.310","PrimaryDiagnosisCode":"J14","PrimaryDiagnosisDescription":"Pneumonia due to Hemophilus influenzae"},"Visit4":{"StartDate":"2011-01-25 23:19:10.720","EndDate":"2011-02-02 
+22:06:51.877","PrimaryDiagnosisCode":"M12.161","PrimaryDiagnosisDescription":"Kaschin-Beck disease, right 
+knee"}}},"PC242E3A4E7854DF1A0E43B568DC88F2E":{"General":{"Gender":"Male","DOB":"1963-02-23","Race":"21:46:28.840","MaritalStatus":"Asian","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1987-10-06 
+14:54:32.710","EndDate":"1987-10-19 13:20:04.480","PrimaryDiagnosisCode":"O9A.1","PrimaryDiagnosisDescription":"Malignant neoplasm complicating pregnancy, childbirth and the puerperium"},"Visit2":{"StartDate":"2005-06-16 
+05:33:19.090","EndDate":"2005-06-24 01:25:21.270","PrimaryDiagnosisCode":"C71.8","PrimaryDiagnosisDescription":"Malignant neoplasm of overlapping sites of brain"},"Visit3":{"StartDate":"2010-02-25 
+20:15:28.500","EndDate":"2010-03-04 07:24:29.877","PrimaryDiagnosisCode":"E10.339","PrimaryDiagnosisDescription":"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular 
+edema"}}},"P0BC491C55A454067BD11A78BEA00D3BE":{"General":{"Gender":"Female","DOB":"1921-04-18","Race":"01:56:01.807","MaritalStatus":"Unknown","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1941-11-09 
+09:21:21.510","EndDate":"1941-11-17 19:53:00.300","PrimaryDiagnosisCode":"C75.1","PrimaryDiagnosisDescription":"Malignant neoplasm of pituitary gland"},"Visit2":{"StartDate":"2008-05-20 23:06:06.983","EndDate":"2008-06-08 
+19:02:02.223","PrimaryDiagnosisCode":"F25.0","PrimaryDiagnosisDescription":"Schizoaffective disorder, bipolar 
+type"}}},"P79A7BA2AD35A4CB8A8356BAA13B0058C":{"General":{"Gender":"Female","DOB":"1952-05-03","Race":"02:30:21.563","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1974-01-22 
+09:45:09.890","EndDate":"1974-02-01 04:38:09.187","PrimaryDiagnosisCode":"M11.071","PrimaryDiagnosisDescription":"Hydroxyapatite deposition disease, right ankle and foot"},"Visit2":{"StartDate":"1991-05-06 
+03:31:18.457","EndDate":"1991-05-18 11:35:10.817","PrimaryDiagnosisCode":"H26.223","PrimaryDiagnosisDescription":"Cataract secondary to ocular disorders (degenerative) (inflammatory), 
+bilateral"},"Visit3":{"StartDate":"2003-12-21 00:30:19.433","EndDate":"2003-12-28 07:40:44.163","PrimaryDiagnosisCode":"D14","PrimaryDiagnosisDescription":"Benign neoplasm of middle ear and respiratory 
+system"},"Visit4":{"StartDate":"2010-01-08 13:16:16.433","EndDate":"2010-01-22 21:05:42.890","PrimaryDiagnosisCode":"F52.0","PrimaryDiagnosisDescription":"Hypoactive sexual desire 
+disorder"}}},"PFFCDECD640484DCBB9101218160005B3":{"General":{"Gender":"Male","DOB":"1941-05-06","Race":"14:56:42.687","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1968-07-05 
+06:48:58.117","EndDate":"1968-07-23 10:49:12.563","PrimaryDiagnosisCode":"F01.5","PrimaryDiagnosisDescription":"Vascular dementia"},"Visit2":{"StartDate":"1999-12-18 17:55:30.370","EndDate":"1999-12-29 
+22:10:37.913","PrimaryDiagnosisCode":"C91.42","PrimaryDiagnosisDescription":"Hairy cell leukemia, in relapse"},"Visit3":{"StartDate":"2012-10-18 09:33:12.933","EndDate":"2012-11-01 
+04:14:26.027","PrimaryDiagnosisCode":"C21.8","PrimaryDiagnosisDescription":"Malignant neoplasm of overlapping sites of rectum, anus and anal 
+canal"}}},"PCD2ADB1B97F74EF6BC5C3E0EC562A06F":{"General":{"Gender":"Female","DOB":"1963-04-16","Race":"08:54:08.647","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1988-12-02 
+05:42:32.720","EndDate":"1988-12-16 13:23:08.807","PrimaryDiagnosisCode":"G47","PrimaryDiagnosisDescription":"Sleep disorders"},"Visit2":{"StartDate":"2006-10-10 15:19:36.480","EndDate":"2006-10-29 
+00:14:52.633","PrimaryDiagnosisCode":"M10.38","PrimaryDiagnosisDescription":"Gout due to renal impairment, vertebrae"},"Visit3":{"StartDate":"2006-12-25 04:58:36.060","EndDate":"2007-01-13 
+09:26:36.727","PrimaryDiagnosisCode":"F34.0","PrimaryDiagnosisDescription":"Cyclothymic disorder"},"Visit4":{"StartDate":"2009-09-12 00:55:35.003","EndDate":"2009-09-20 
+12:22:33.137","PrimaryDiagnosisCode":"B73.1","PrimaryDiagnosisDescription":"Onchocerciasis without eye 
+disease"}}},"PA50BE9B48A0B4169B894F7BD86D7D90B":{"General":{"Gender":"Female","DOB":"1987-04-18","Race":"16:31:16.333","MaritalStatus":"Asian","Language":"Divorced"},"Administration":{"Visit1":{"StartDate":"2010-10-25 
+12:30:21.223","EndDate":"2010-10-31 11:06:07.027","PrimaryDiagnosisCode":"G96.1","PrimaryDiagnosisDescription":"Disorders of meninges, not elsewhere 
+classified"}}},"P69CC25EDA54A4BAF97E3774BB3C9DED1":{"General":{"Gender":"Female","DOB":"1974-10-13","Race":"14:51:28.997","MaritalStatus":"Unknown","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1999-04-21 
+10:52:48.653","EndDate":"1999-05-08 08:52:28.027","PrimaryDiagnosisCode":"C91.5","PrimaryDiagnosisDescription":"Adult T-cell lymphoma/leukemia (HTLV-1-associated)"},"Visit2":{"StartDate":"2009-12-21 
+18:48:52.093","EndDate":"2009-12-26 00:30:07.090","PrimaryDiagnosisCode":"H36","PrimaryDiagnosisDescription":"Retinal disorders in diseases classified 
+elsewhere"}}},"P69B5D2A012FD46EFA5FFB29C4BAFBE49":{"General":{"Gender":"Male","DOB":"1954-05-02","Race":"16:38:15.957","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1976-02-24 
+17:42:25.660","EndDate":"1976-03-03 08:44:56.803","PrimaryDiagnosisCode":"Z91.15","PrimaryDiagnosisDescription":"Patient's noncompliance with renal dialysis"},"Visit2":{"StartDate":"1977-01-05 
+19:55:00.627","EndDate":"1977-01-22 
+05:36:40.007","PrimaryDiagnosisCode":"M05.5","PrimaryDiagnosisDescription":"Rheumatoid polyneuropathy with rheumatoid arthritis"},"Visit3":{"StartDate":"1980-11-26 05:32:36.187","EndDate":"1980-12-01 
+15:43:05.137","PrimaryDiagnosisCode":"D15.0","PrimaryDiagnosisDescription":"Benign neoplasm of thymus"},"Visit4":{"StartDate":"1999-05-07 14:39:54.653","EndDate":"1999-05-23 
+11:36:49.223","PrimaryDiagnosisCode":"C94.0","PrimaryDiagnosisDescription":"Acute erythroid leukemia"},"Visit5":{"StartDate":"2009-09-28 05:33:50.440","EndDate":"2009-09-30 
+22:06:53.447","PrimaryDiagnosisCode":"I25.75","PrimaryDiagnosisDescription":"Atherosclerosis of native coronary artery of transplanted heart with angina 
+pectoris"}}},"P8D389A8CA6D844479DDE1A28AB4EC667":{"General":{"Gender":"Female","DOB":"1964-07-10","Race":"08:50:13.707","MaritalStatus":"Asian","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1988-06-21 
+04:54:48.510","EndDate":"1988-07-08 07:48:15.020","PrimaryDiagnosisCode":"C92.12","PrimaryDiagnosisDescription":"Chronic myeloid leukemia, BCR/ABL-positive, in relapse"},"Visit2":{"StartDate":"1988-11-08 
+08:36:04.737","EndDate":"1988-11-19 12:35:31.670","PrimaryDiagnosisCode":"Z13.22","PrimaryDiagnosisDescription":"Encounter for screening for metabolic disorder"},"Visit3":{"StartDate":"2002-12-08 
+06:20:37.083","EndDate":"2002-12-27 06:02:58.280","PrimaryDiagnosisCode":"Q60.0","PrimaryDiagnosisDescription":"Renal agenesis, unilateral"},"Visit4":{"StartDate":"2009-03-29 14:32:01.223","EndDate":"2009-04-03 
+08:02:22.683","PrimaryDiagnosisCode":"O26.6","PrimaryDiagnosisDescription":"Liver and biliary tract disorders in pregnancy, childbirth and the 
+puerperium"}}},"P967987B9FFEF477685CFAE05CA81F583":{"General":{"Gender":"Male","DOB":"1947-02-13","Race":"10:26:55.520","MaritalStatus":"White","Language":"Widowed"},"Administration":{"Visit1":{"StartDate":"1971-05-09 
+07:22:26.180","EndDate":"1971-05-12 03:17:30.893","PrimaryDiagnosisCode":"M05.742","PrimaryDiagnosisDescription":"Rheumatoid arthritis with rheumatoid factor of left hand without organ or systems 
+involvement"},"Visit2":{"StartDate":"1994-09-17 21:24:51.097","EndDate":"1994-10-06 17:55:04.573","PrimaryDiagnosisCode":"B95.1","PrimaryDiagnosisDescription":"Streptococcus, group B, as the cause of diseases classified 
+elsewhere"},"Visit3":{"StartDate":"2004-01-08 15:30:51.650","EndDate":"2004-01-16 21:19:12.563","PrimaryDiagnosisCode":"G30","PrimaryDiagnosisDescription":"Alzheimer's disease"},"Visit4":{"StartDate":"2007-01-18 
+18:47:05.583","EndDate":"2007-02-07 10:16:25.880","PrimaryDiagnosisCode":"M90.511","PrimaryDiagnosisDescription":"Osteonecrosis in diseases classified elsewhere, right shoulder"},"Visit5":{"StartDate":"2009-12-31 
+19:58:25.370","EndDate":"2010-01-03 01:23:31.680","PrimaryDiagnosisCode":"H30.812","PrimaryDiagnosisDescription":"Harada's disease, left 
+eye"}}},"P9BBF3A51443D438B9289B98B8E0577C0":{"General":{"Gender":"Male","DOB":"1944-11-25","Race":"06:12:56.860","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1971-09-16 
+03:52:41.700","EndDate":"1971-09-22 04:45:47.350","PrimaryDiagnosisCode":"J66.1","PrimaryDiagnosisDescription":"Flax-dressers' disease"},"Visit2":{"StartDate":"2009-10-17 21:08:38.197","EndDate":"2009-11-02 
+10:36:05.957","PrimaryDiagnosisCode":"E11.32","PrimaryDiagnosisDescription":"Type 2 diabetes mellitus with mild nonproliferative diabetic 
+retinopathy"}}},"P6D8008EDD6234BE4B93B335F9797C170":{"General":{"Gender":"Female","DOB":"1978-03-14","Race":"13:41:28.337","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"2001-05-13 
+14:49:12.153","EndDate":"2001-05-25 10:04:02.897","PrimaryDiagnosisCode":"N18.1","PrimaryDiagnosisDescription":"Chronic kidney disease, stage 1"},"Visit2":{"StartDate":"2004-12-04 14:16:27.993","EndDate":"2004-12-17 
+11:07:24.303","PrimaryDiagnosisCode":"C10.2","PrimaryDiagnosisDescription":"Malignant neoplasm of lateral wall of oropharynx"},"Visit3":{"StartDate":"2012-01-02 06:58:15.063","EndDate":"2012-01-20 
+14:29:55.523","PrimaryDiagnosisCode":"D41.4","PrimaryDiagnosisDescription":"Neoplasm of uncertain behavior of 
+bladder"}}},"PB3892204880B40EFB3BBB824B50E99E5":{"General":{"Gender":"Male","DOB":"1978-08-06","Race":"08:38:27.330","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"2000-08-17 
+23:19:49.277","EndDate":"2000-09-03 06:21:54.673","PrimaryDiagnosisCode":"C88.3","PrimaryDiagnosisDescription":"Immunoproliferative small intestinal disease"},"Visit2":{"StartDate":"2001-09-03 
+18:44:08.870","EndDate":"2001-09-23 
+15:26:58.383","PrimaryDiagnosisCode":"C49.8","PrimaryDiagnosisDescription":"Malignant neoplasm of overlapping sites of connective and soft tissue"},"Visit3":{"StartDate":"2012-02-24 06:24:35.893","EndDate":"2012-03-09 
+21:54:32.307","PrimaryDiagnosisCode":"E09.41","PrimaryDiagnosisDescription":"Drug or chemical induced diabetes mellitus with neurological complications with diabetic 
+mononeuropathy"}}},"P49DADA25F2C242BB8210D78E6C7B0D48":{"General":{"Gender":"Male","DOB":"1962-04-08","Race":"10:18:26.263","MaritalStatus":"African","Language":"American"},"Administration":{"Visit1":{"StartDate":"1983-06-01 
+19:50:33.977","EndDate":"1983-06-07 02:58:10.193","PrimaryDiagnosisCode":"Z12","PrimaryDiagnosisDescription":"Encounter for screening for malignant neoplasms"},"Visit2":{"StartDate":"2011-04-11 
+06:49:54.353","EndDate":"2011-04-30 03:04:12.240","PrimaryDiagnosisCode":"H47.53","PrimaryDiagnosisDescription":"Disorders of visual pathways in (due to) vascular 
+disorders"}}},"P7548B6CF79D9461DA0C520B861406FAC":{"General":{"Gender":"Male","DOB":"1956-11-13","Race":"14:08:00.253","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1982-08-23 
+17:35:47.147","EndDate":"1982-09-05 16:20:45.987","PrimaryDiagnosisCode":"M05.261","PrimaryDiagnosisDescription":"Rheumatoid vasculitis with rheumatoid arthritis of right knee"},"Visit2":{"StartDate":"2000-09-22 
+02:19:57.300","EndDate":"2000-10-03 02:27:31.373","PrimaryDiagnosisCode":"E75.01","PrimaryDiagnosisDescription":"Sandhoff disease"},"Visit3":{"StartDate":"2003-04-14 06:42:17.997","EndDate":"2003-04-29 
+10:51:27.057","PrimaryDiagnosisCode":"M05.511","PrimaryDiagnosisDescription":"Rheumatoid polyneuropathy with rheumatoid arthritis of right shoulder"},"Visit4":{"StartDate":"2008-10-13 18:21:22.910","EndDate":"2008-10-23 
+18:38:15.857","PrimaryDiagnosisCode":"C02.1","PrimaryDiagnosisDescription":"Malignant neoplasm of border of 
+tongue"}}},"PB5D31F0172734901B56F8139769A11EF":{"General":{"Gender":"Female","DOB":"1971-04-02","Race":"18:56:59.353","MaritalStatus":"Asian","Language":"Unknown"},"Administration":{"Visit1":{"StartDate":"1997-04-22 
+04:24:08.750","EndDate":"1997-05-06 08:20:43.170","PrimaryDiagnosisCode":"B40.1","PrimaryDiagnosisDescription":"Chronic pulmonary blastomycosis"},"Visit2":{"StartDate":"2004-08-23 05:16:57.480","EndDate":"2004-08-27 
+11:50:54.573","PrimaryDiagnosisCode":"E09.649","PrimaryDiagnosisDescription":"Drug or chemical induced diabetes mellitus with hypoglycemia without coma"},"Visit3":{"StartDate":"2010-07-03 10:53:49.617","EndDate":"2010-07-15 
+13:32:19.510","PrimaryDiagnosisCode":"E11.5","PrimaryDiagnosisDescription":"Type 2 diabetes mellitus with circulatory 
+complications"}}},"P80D356B4F974441FA5F2F95986D119A2":{"General":{"Gender":"Female","DOB":"1938-03-06","Race":"18:24:18.297","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1965-01-29 
+09:25:37.200","EndDate":"1965-02-10 00:57:57.970","PrimaryDiagnosisCode":"H34","PrimaryDiagnosisDescription":"Retinal vascular occlusions"},"Visit2":{"StartDate":"1970-09-05 18:51:46.390","EndDate":"1970-09-22 
+22:21:45.263","PrimaryDiagnosisCode":"K50.014","PrimaryDiagnosisDescription":"Crohn's disease of small intestine with abscess"},"Visit3":{"StartDate":"1984-05-31 18:34:12.660","EndDate":"1984-06-11 
+05:01:40.287","PrimaryDiagnosisCode":"D68.3","PrimaryDiagnosisDescription":"Hemorrhagic disorder due to circulating anticoagulants"},"Visit4":{"StartDate":"1990-05-02 22:55:11.220","EndDate":"1990-05-22 
+13:38:51.950","PrimaryDiagnosisCode":"J66.1","PrimaryDiagnosisDescription":"Flax-dressers' disease"},"Visit5":{"StartDate":"1991-12-11 07:04:48.687","EndDate":"1991-12-26 
+05:07:29.543","PrimaryDiagnosisCode":"C31.3","PrimaryDiagnosisDescription":"Malignant neoplasm of sphenoid sinus"},"Visit6":{"StartDate":"2007-09-19 18:38:24.610","EndDate":"2007-10-06 
+16:49:16.640","PrimaryDiagnosisCode":"M05.561","PrimaryDiagnosisDescription":"Rheumatoid polyneuropathy with rheumatoid arthritis of right knee"},"Visit7":{"StartDate":"2012-10-28 00:36:29.513","EndDate":"2012-11-09 
+06:05:58.093","PrimaryDiagnosisCode":"Q61.01","PrimaryDiagnosisDescription":"Congenital single renal 
+cyst"}}},"PA0A976C89B304492B8C45B25095B9192":{"General":{"Gender":"Male","DOB":"1931-05-26","Race":"14:54:15.847","MaritalStatus":"Asian","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1949-07-10 
+00:17:08.037","EndDate":"1949-07-26 11:53:13.577","PrimaryDiagnosisCode":"M24.251","PrimaryDiagnosisDescription":"Disorder of ligament, right hip"},"Visit2":{"StartDate":"1951-08-12 17:27:34.267","EndDate":"1951-08-17 
+10:50:34.113","PrimaryDiagnosisCode":"T46.0X5","PrimaryDiagnosisDescription":"Adverse effect of cardiac-stimulant glycosides and drugs of similar action"},"Visit3":{"StartDate":"1954-01-06 06:36:07.547","EndDate":"1954-01-18 
+06:04:00.080","PrimaryDiagnosisCode":"F33.1","PrimaryDiagnosisDescription":"Major depressive disorder, recurrent, moderate"},"Visit4":{"StartDate":"1967-12-01 13:31:48.583","EndDate":"1967-12-08 
+11:12:29.007","PrimaryDiagnosisCode":"M90","PrimaryDiagnosisDescription":"Osteopathies in diseases classified elsewhere"},"Visit5":{"StartDate":"1996-04-20 01:55:09.940","EndDate":"1996-04-29 
+16:13:32.697","PrimaryDiagnosisCode":"K57.5","PrimaryDiagnosisDescription":"Diverticular disease of both small and large intestine without perforation or abscess"},"Visit6":{"StartDate":"2005-06-20 
+15:16:06.220","EndDate":"2005-07-06 18:13:08.123","PrimaryDiagnosisCode":"H43","PrimaryDiagnosisDescription":"Disorders of vitreous body"},"Visit7":{"StartDate":"2012-11-09 22:54:29.000","EndDate":"2012-11-27 
+09:39:56.087","PrimaryDiagnosisCode":"F31.6","PrimaryDiagnosisDescription":"Bipolar disorder, current episode 
+mixed"}}},"P016A590ED0934667A5DAD68EA6987D93":{"General":{"Gender":"Male","DOB":"1960-12-06","Race":"06:37:05.640","MaritalStatus":"White","Language":"Unknown"},"Administration":{"Visit1":{"StartDate":"1986-11-30 
+19:41:09.330","EndDate":"1986-12-06 09:59:54.020","PrimaryDiagnosisCode":"O99.712","PrimaryDiagnosisDescription":"Diseases of the skin and subcutaneous tissue complicating pregnancy, second 
+trimester"},"Visit2":{"StartDate":"1998-06-04 23:05:09.147","EndDate":"1998-06-11 22:43:02.203","PrimaryDiagnosisCode":"E11.64","PrimaryDiagnosisDescription":"Type 2 diabetes mellitus with 
+hypoglycemia"},"Visit3":{"StartDate":"1999-10-28 17:26:06.743","EndDate":"1999-11-09 01:25:13.733","PrimaryDiagnosisCode":"I25.812","PrimaryDiagnosisDescription":"Atherosclerosis of bypass graft of coronary artery of 
+transplanted heart without angina pectoris"},"Visit4":{"StartDate":"2001-03-18 18:39:56.843","EndDate":"2001-03-27 18:22:45.747","PrimaryDiagnosisCode":"O24.1","PrimaryDiagnosisDescription":"Pre-existing diabetes mellitus, type 
+2, in pregnancy, childbirth and the puerperium"},"Visit5":{"StartDate":"2008-02-22 06:52:39.087","EndDate":"2008-03-03 19:20:29.737","PrimaryDiagnosisCode":"F13.151","PrimaryDiagnosisDescription":"Sedative, hypnotic or 
+anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder with 
+hallucinations"}}},"P3B11D6B3A36A4B69A437C29BF425A941":{"General":{"Gender":"Female","DOB":"1954-05-18","Race":"10:19:19.110","MaritalStatus":"Asian","Language":"Separated"},"Administration":{"Visit1":{"StartDate":"1980-12-21 
+14:53:39.143","EndDate":"1981-01-01 03:11:53.817","PrimaryDiagnosisCode":"I79.0","PrimaryDiagnosisDescription":"Aneurysm of aorta in diseases classified elsewhere"},"Visit2":{"StartDate":"2004-05-11 
+15:14:37.337","EndDate":"2004-05-28 00:23:17.697","PrimaryDiagnosisCode":"T82.4","PrimaryDiagnosisDescription":"Mechanical complication of vascular dialysis catheter"},"Visit3":{"StartDate":"2009-01-20 
+01:06:17.317","EndDate":"2009-02-06 20:05:00.943","PrimaryDiagnosisCode":"D12.1","PrimaryDiagnosisDescription":"Benign neoplasm of 
+appendix"}}},"PE483DE6ED4E647FD905B22EE86EC7ACE":{"General":{"Gender":"Male","DOB":"1945-11-18","Race":"04:14:31.573","MaritalStatus":"African","Language":"American"},"Administration":{"Visit1":{"StartDate":"1971-05-26 
+20:08:10.073","EndDate":"1971-06-04 14:43:59.993","PrimaryDiagnosisCode":"A98.3","PrimaryDiagnosisDescription":"Marburg virus disease"},"Visit2":{"StartDate":"2003-04-09 18:42:15.223","EndDate":"2003-04-29 
+16:41:43.547","PrimaryDiagnosisCode":"F14.180","PrimaryDiagnosisDescription":"Cocaine abuse with cocaine-induced anxiety disorder"},"Visit3":{"StartDate":"2007-07-10 16:11:25.767","EndDate":"2007-07-12 
+16:31:49.420","PrimaryDiagnosisCode":"M05.252","PrimaryDiagnosisDescription":"Rheumatoid vasculitis with rheumatoid arthritis of left hip"},"Visit4":{"StartDate":"2011-01-21 12:43:55.883","EndDate":"2011-01-29 
+04:31:59.350","PrimaryDiagnosisCode":"M06.051","PrimaryDiagnosisDescription":"Rheumatoid arthritis without rheumatoid factor, right 
+hip"}}},"PB2EB15FA5431480493094215BDC778C0":{"General":{"Gender":"Male","DOB":"1951-04-13","Race":"20:14:02.953","MaritalStatus":"White","Language":"Divorced"},"Administration":{"Visit1":{"StartDate":"1970-02-27 
+17:16:23.907","EndDate":"1970-03-04 08:16:49.903","PrimaryDiagnosisCode":"M05.722","PrimaryDiagnosisDescription":"Rheumatoid arthritis with rheumatoid factor of left elbow without organ or systems 
+involvement"},"Visit2":{"StartDate":"1984-03-03 02:15:39.583","EndDate":"1984-03-16 05:06:14.467","PrimaryDiagnosisCode":"H75.03","PrimaryDiagnosisDescription":"Mastoiditis in infectious and parasitic diseases classified 
+elsewhere, bilateral"},"Visit3":{"StartDate":"2010-04-25 17:59:39.993","EndDate":"2010-05-10 05:48:23.413","PrimaryDiagnosisCode":"C91.1","PrimaryDiagnosisDescription":"Chronic lymphocytic leukemia of B-cell 
+type"}}},"P53B9FFDDF80B43BE93CFC34A023EE7E9":{"General":{"Gender":"Male","DOB":"1921-08-22","Race":"19:17:09.227","MaritalStatus":"White","Language":"Divorced"},"Administration":{"Visit1":{"StartDate":"1942-07-30 
+04:45:36.667","EndDate":"1942-08-10 21:35:50.310","PrimaryDiagnosisCode":"H16.433","PrimaryDiagnosisDescription":"Localized vascularization of cornea, bilateral"},"Visit2":{"StartDate":"1976-12-12 
+03:22:51.097","EndDate":"1976-12-20 09:34:30.910","PrimaryDiagnosisCode":"Q60.4","PrimaryDiagnosisDescription":"Renal hypoplasia, bilateral"},"Visit3":{"StartDate":"1983-06-22 05:57:03.520","EndDate":"1983-07-09 
+21:05:20.913","PrimaryDiagnosisCode":"O9A.53","PrimaryDiagnosisDescription":"Psychological abuse complicating the puerperium"},"Visit4":{"StartDate":"1991-09-13 04:27:45.010","EndDate":"1991-09-23 
+16:08:23.257","PrimaryDiagnosisCode":"I25.711","PrimaryDiagnosisDescription":"Atherosclerosis of autologous vein coronary artery bypass graft(s) with angina pectoris with documented spasm"},"Visit5":{"StartDate":"2007-05-16 
+22:50:17.000","EndDate":"2007-05-27 00:08:37.830","PrimaryDiagnosisCode":"E10.630","PrimaryDiagnosisDescription":"Type 1 diabetes mellitus with periodontal disease"},"Visit6":{"StartDate":"2010-01-07 
+01:04:58.483","EndDate":"2010-01-20 06:37:13.387","PrimaryDiagnosisCode":"H42","PrimaryDiagnosisDescription":"Glaucoma in diseases classified 
+elsewhere"}}},"PC5D09468574F4802B56FDB38F4EB1687":{"General":{"Gender":"Male","DOB":"1939-07-07","Race":"19:39:49.753","MaritalStatus":"African","Language":"American"},"Administration":{"Visit1":{"StartDate":"1959-09-12 
+08:02:27.580","EndDate":"1959-09-24 09:25:08.323","PrimaryDiagnosisCode":"N25.1","PrimaryDiagnosisDescription":"Nephrogenic diabetes insipidus"},"Visit2":{"StartDate":"1975-04-14 01:27:24.847","EndDate":"1975-04-26 
+05:52:48.173","PrimaryDiagnosisCode":"H61.192","PrimaryDiagnosisDescription":"Noninfective disorders of pinna, left ear"},"Visit3":{"StartDate":"2006-05-22 23:29:02.183","EndDate":"2006-06-01 
+19:53:07.043","PrimaryDiagnosisCode":"O99.611","PrimaryDiagnosisDescription":"Diseases of the digestive system complicating pregnancy, first trimester"},"Visit4":{"StartDate":"2011-03-30 14:44:18.413","EndDate":"2011-04-15 
+03:37:15.953","PrimaryDiagnosisCode":"H47.0","PrimaryDiagnosisDescription":"Disorders of optic nerve, not elsewhere 
+classified"}}},"PEA7C2F0FDA1C4CE897004BB1FC7AF3FB":{"General":{"Gender":"Male","DOB":"1969-01-05","Race":"00:15:09.627","MaritalStatus":"Unknown","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1993-09-17 
+22:24:49.573","EndDate":"1993-09-23 00:29:45.467","PrimaryDiagnosisCode":"M02.37","PrimaryDiagnosisDescription":"Reiter's disease, ankle and foot"},"Visit2":{"StartDate":"1994-02-06 17:58:00.583","EndDate":"1994-02-26 
+11:44:26.100","PrimaryDiagnosisCode":"O99.411","PrimaryDiagnosisDescription":"Diseases of the circulatory system complicating pregnancy, first trimester"},"Visit3":{"StartDate":"2002-03-06 21:09:42.670","EndDate":"2002-03-23 
+05:43:46.137","PrimaryDiagnosisCode":"D39.11","PrimaryDiagnosisDescription":"Neoplasm of uncertain behavior of right ovary"},"Visit4":{"StartDate":"2008-03-22 11:25:37.977","EndDate":"2008-03-26 
+17:58:11.653","PrimaryDiagnosisCode":"E08.641","PrimaryDiagnosisDescription":"Diabetes mellitus due to underlying condition with hypoglycemia with 
+coma"}}},"P35FE74911A1D48CB810C8DC2599AB3DD":{"General":{"Gender":"Male","DOB":"1969-11-02","Race":"06:34:34.527","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1989-09-23 
+21:57:50.250","EndDate":"1989-10-12 23:31:11.120","PrimaryDiagnosisCode":"M10.31","PrimaryDiagnosisDescription":"Gout due to renal impairment, shoulder"},"Visit2":{"StartDate":"1994-04-01 07:22:17.723","EndDate":"1994-04-12 
+00:43:17.050","PrimaryDiagnosisCode":"D48.4","PrimaryDiagnosisDescription":"Neoplasm of uncertain behavior of peritoneum"},"Visit3":{"StartDate":"2003-04-21 00:40:36.057","EndDate":"2003-05-09 
+02:14:42.870","PrimaryDiagnosisCode":"M05.741","PrimaryDiagnosisDescription":"Rheumatoid arthritis with rheumatoid factor of right hand without organ or systems involvement"},"Visit4":{"StartDate":"2005-02-04 
+17:30:47.467","EndDate":"2005-02-12 12:00:54.490","PrimaryDiagnosisCode":"F94.2","PrimaryDiagnosisDescription":"Disinhibited attachment disorder of childhood"},"Visit5":{"StartDate":"2012-11-19 
+11:46:10.477","EndDate":"2012-11-28 08:51:41.647","PrimaryDiagnosisCode":"C47","PrimaryDiagnosisDescription":"Malignant neoplasm of peripheral nerves and autonomic nervous 
+system"}}},"P868E700E3C56458FA477078D671DCB20":{"General":{"Gender":"Female","DOB":"1978-09-21","Race":"15:29:44.770","MaritalStatus":"African","Language":"American"},"Administration":{"Visit1":{"StartDate":"2002-11-29 
+12:35:04.863","EndDate":"2002-12-13 14:44:44.223","PrimaryDiagnosisCode":"M10.37","PrimaryDiagnosisDescription":"Gout due to renal impairment, ankle and foot"},"Visit2":{"StartDate":"2008-12-27 
+02:32:08.560","EndDate":"2009-01-03 03:40:33.080","PrimaryDiagnosisCode":"B33.4","PrimaryDiagnosisDescription":"Hantavirus (cardio)-pulmonary syndrome [HPS] 
+[HCPS]"}}},"P56A35E7490BE44A0B7BA7743BB152133":{"General":{"Gender":"Female","DOB":"1968-11-09","Race":"15:29:19.557","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1993-04-08 
+18:51:30.217","EndDate":"1993-04-16 12:24:50.617","PrimaryDiagnosisCode":"C67.5","PrimaryDiagnosisDescription":"Malignant neoplasm of bladder neck"},"Visit2":{"StartDate":"2003-09-25 03:25:19.470","EndDate":"2003-10-11 
+16:54:53.707","PrimaryDiagnosisCode":"C76.51","PrimaryDiagnosisDescription":"Malignant neoplasm of right lower limb"},"Visit3":{"StartDate":"2010-12-31 21:08:31.323","EndDate":"2011-01-04 
+09:51:53.613","PrimaryDiagnosisCode":"K50.1","PrimaryDiagnosisDescription":"Crohn's disease of large 
+intestine"}}},"PCC12B481B516455B884F4CA900B29F2E":{"General":{"Gender":"Female","DOB":"1985-10-21","Race":"07:59:04.777","MaritalStatus":"Unknown","Language":"Divorced"},"Administration":{"Visit1":{"StartDate":"2004-01-11 
+20:03:43.343","EndDate":"2004-01-23 05:28:39.113","PrimaryDiagnosisCode":"M10.361","PrimaryDiagnosisDescription":"Gout due to renal impairment, right knee"},"Visit2":{"StartDate":"2006-12-11 02:54:25.237","EndDate":"2006-12-29 
+03:36:05.053","PrimaryDiagnosisCode":"E87.4","PrimaryDiagnosisDescription":"Mixed disorder of acid-base balance"},"Visit3":{"StartDate":"2012-04-24 21:33:37.117","EndDate":"2012-04-29 
+16:21:19.187","PrimaryDiagnosisCode":"D89.810","PrimaryDiagnosisDescription":"Acute graft-versus-host 
+disease"}}},"P714823AFC52C414CB53BC43EACD194C3":{"General":{"Gender":"Male","DOB":"1952-05-08","Race":"23:51:50.127","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1970-08-04 
+06:53:42.187","EndDate":"1970-08-08 11:37:59.357","PrimaryDiagnosisCode":"K08.121","PrimaryDiagnosisDescription":"Complete loss of teeth due to periodontal diseases, class I"},"Visit2":{"StartDate":"1992-08-31 
+17:52:29.337","EndDate":"1992-09-11 18:47:37.603","PrimaryDiagnosisCode":"O26.63","PrimaryDiagnosisDescription":"Liver and biliary tract disorders in the puerperium"},"Visit3":{"StartDate":"2011-06-05 
+17:23:27.803","EndDate":"2011-06-14 14:38:37.950","PrimaryDiagnosisCode":"O9A.513","PrimaryDiagnosisDescription":"Psychological abuse complicating pregnancy, third 
+trimester"}}},"P3231F93029784F508234755449851E7B":{"General":{"Gender":"Male","DOB":"1979-05-26","Race":"04:58:10.627","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"2000-07-09 
+20:04:33.343","EndDate":"2000-07-14 13:14:03.380","PrimaryDiagnosisCode":"E30","PrimaryDiagnosisDescription":"Disorders of puberty, not elsewhere classified"},"Visit2":{"StartDate":"2004-01-23 
+20:25:40.860","EndDate":"2004-02-09 
+00:29:25.150","PrimaryDiagnosisCode":"Z49","PrimaryDiagnosisDescription":"Encounter for care involving renal dialysis"},"Visit3":{"StartDate":"2006-05-23 03:49:40.170","EndDate":"2006-06-11 
+19:46:35.217","PrimaryDiagnosisCode":"F18.17","PrimaryDiagnosisDescription":"Inhalant abuse with inhalant-induced dementia"},"Visit4":{"StartDate":"2007-05-23 02:25:04.377","EndDate":"2007-05-30 
+23:04:12.863","PrimaryDiagnosisCode":"J84.842","PrimaryDiagnosisDescription":"Pulmonary interstitial glycogenosis"},"Visit5":{"StartDate":"2009-07-16 00:40:38.197","EndDate":"2009-08-04 
+12:13:10.353","PrimaryDiagnosisCode":"F94.1","PrimaryDiagnosisDescription":"Reactive attachment disorder of 
+childhood"}}},"PC2CCB1AB66334CB3B4E8157E6FB02376":{"General":{"Gender":"Female","DOB":"1964-05-07","Race":"10:20:37.740","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1988-02-26 
+07:12:10.023","EndDate":"1988-03-07 06:17:20.400","PrimaryDiagnosisCode":"G71","PrimaryDiagnosisDescription":"Primary disorders of muscles"},"Visit2":{"StartDate":"2008-06-20 16:18:54.877","EndDate":"2008-06-23 
+18:31:59.190","PrimaryDiagnosisCode":"O46.023","PrimaryDiagnosisDescription":"Antepartum hemorrhage with disseminated intravascular coagulation, third 
+trimester"}}},"P1311FEE42FDC46E483D31550A3E51D2C":{"General":{"Gender":"Female","DOB":"1988-03-28","Race":"03:09:22.807","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"2007-10-03 
+21:18:19.710","EndDate":"2007-10-12 21:39:15.177","PrimaryDiagnosisCode":"C18.3","PrimaryDiagnosisDescription":"Malignant neoplasm of hepatic flexure"},"Visit2":{"StartDate":"2010-07-22 15:27:29.767","EndDate":"2010-08-06 
+05:59:30.037","PrimaryDiagnosisCode":"C79.51","PrimaryDiagnosisDescription":"Secondary malignant neoplasm of 
+bone"}}},"P217925122D404326BEA2A40127EB24FF":{"General":{"Gender":"Male","DOB":"1938-03-24","Race":"19:25:53.980","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1960-10-15 
+20:58:29.703","EndDate":"1960-10-28 23:12:33.417","PrimaryDiagnosisCode":"O99.351","PrimaryDiagnosisDescription":"Diseases of the nervous system complicating pregnancy, first trimester"},"Visit2":{"StartDate":"1961-08-14 
+08:45:03.500","EndDate":"1961-08-24 20:14:22.873","PrimaryDiagnosisCode":"C16.2","PrimaryDiagnosisDescription":"Malignant neoplasm of body of stomach"},"Visit3":{"StartDate":"1966-12-25 21:37:45.317","EndDate":"1967-01-08 
+22:00:23.510","PrimaryDiagnosisCode":"M90.642","PrimaryDiagnosisDescription":"Osteitis deformans in neoplastic diseases, left hand"},"Visit4":{"StartDate":"1995-11-04 08:08:31.320","EndDate":"1995-11-11 
+18:20:13.820","PrimaryDiagnosisCode":"M01.X72","PrimaryDiagnosisDescription":"Direct infection of left ankle and foot in infectious and parasitic diseases classified elsewhere"},"Visit5":{"StartDate":"2006-02-20 
+08:28:21.110","EndDate":"2006-02-28 05:42:48.340","PrimaryDiagnosisCode":"E30","PrimaryDiagnosisDescription":"Disorders of puberty, not elsewhere classified"},"Visit6":{"StartDate":"2012-02-08 
+09:04:59.963","EndDate":"2012-02-11 
+09:59:20.380","PrimaryDiagnosisCode":"M10.322","PrimaryDiagnosisDescription":"Gout due to renal impairment, left 
+elbow"}}},"PEEAFC0B3B8354D99AB332F9428E54E5F":{"General":{"Gender":"Female","DOB":"1961-01-08","Race":"15:19:15.490","MaritalStatus":"Asian","Language":"Unknown"},"Administration":{"Visit1":{"StartDate":"1987-01-10 
+08:09:16.500","EndDate":"1987-01-21 00:50:49.120","PrimaryDiagnosisCode":"M05.25","PrimaryDiagnosisDescription":"Rheumatoid vasculitis with rheumatoid arthritis of hip"},"Visit2":{"StartDate":"1998-12-29 
+01:14:39.423","EndDate":"1999-01-04 07:18:56.027","PrimaryDiagnosisCode":"M05.59","PrimaryDiagnosisDescription":"Rheumatoid polyneuropathy with rheumatoid arthritis of multiple sites"},"Visit3":{"StartDate":"2004-01-17 
+23:29:41.843","EndDate":"2004-01-28 01:36:51.720","PrimaryDiagnosisCode":"O98.6","PrimaryDiagnosisDescription":"Protozoal diseases complicating pregnancy, childbirth and the puerperium"},"Visit4":{"StartDate":"2012-12-26 
+09:21:10.550","EndDate":"2013-01-12 18:16:11.020","PrimaryDiagnosisCode":"D37.0","PrimaryDiagnosisDescription":"Neoplasm of uncertain behavior of lip, oral cavity and 
+pharynx"}}},"P2EE42DEF37CA4694827EFA4EAF882BFC":{"General":{"Gender":"Male","DOB":"1964-04-27","Race":"00:41:40.410","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1982-12-12 
+12:29:14.560","EndDate":"1982-12-24 09:13:53.463","PrimaryDiagnosisCode":"C57.21","PrimaryDiagnosisDescription":"Malignant neoplasm of right round ligament"},"Visit2":{"StartDate":"2002-12-31 05:46:14.717","EndDate":"2003-01-10 
+11:14:14.587","PrimaryDiagnosisCode":"T46.3X6","PrimaryDiagnosisDescription":"Underdosing of coronary vasodilators"},"Visit3":{"StartDate":"2010-01-27 05:50:32.723","EndDate":"2010-01-30 
+04:03:24.850","PrimaryDiagnosisCode":"D31.41","PrimaryDiagnosisDescription":"Benign neoplasm of right ciliary 
+body"}}},"P367750029EC34889AD4F80DC6855C8D8":{"General":{"Gender":"Female","DOB":"1963-07-16","Race":"22:16:48.477","MaritalStatus":"Asian","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1990-12-14 
+05:39:13.747","EndDate":"1991-01-01 01:23:47.820","PrimaryDiagnosisCode":"K00","PrimaryDiagnosisDescription":"Disorders of tooth development and eruption"},"Visit2":{"StartDate":"1992-08-15 19:48:30.000","EndDate":"1992-09-01 
+16:03:16.897","PrimaryDiagnosisCode":"M24.242","PrimaryDiagnosisDescription":"Disorder of ligament, left hand"},"Visit3":{"StartDate":"1992-09-27 02:44:16.097","EndDate":"1992-10-10 
+12:42:44.060","PrimaryDiagnosisCode":"C79.02","PrimaryDiagnosisDescription":"Secondary malignant neoplasm of left kidney and renal pelvis"},"Visit4":{"StartDate":"2004-10-01 02:09:01.190","EndDate":"2004-10-17 
+20:21:53.893","PrimaryDiagnosisCode":"E71.31","PrimaryDiagnosisDescription":"Disorders of fatty-acid oxidation"},"Visit5":{"StartDate":"2005-03-09 06:02:37.550","EndDate":"2005-03-16 
+18:16:35.707","PrimaryDiagnosisCode":"M24.272","PrimaryDiagnosisDescription":"Disorder of ligament, left ankle"},"Visit6":{"StartDate":"2008-01-30 13:47:43.490","EndDate":"2008-02-16 
+17:13:59.847","PrimaryDiagnosisCode":"E08.5","PrimaryDiagnosisDescription":"Diabetes mellitus due to underlying condition with circulatory 
+complications"}}},"P4C201C71CCED40D19642F9C8C485B854":{"General":{"Gender":"Male","DOB":"1926-09-22","Race":"09:17:14.713","MaritalStatus":"African","Language":"American"},"Administration":{"Visit1":{"StartDate":"1945-03-13 
+14:37:16.017","EndDate":"1945-03-26 16:07:42.110","PrimaryDiagnosisCode":"M63.832","PrimaryDiagnosisDescription":"Disorders of muscle in diseases classified elsewhere, left forearm"},"Visit2":{"StartDate":"1956-02-14 
+14:10:35.737","EndDate":"1956-03-04 18:23:51.753","PrimaryDiagnosisCode":"T43.3X5","PrimaryDiagnosisDescription":"Adverse effect of phenothiazine antipsychotics and neuroleptics"},"Visit3":{"StartDate":"1977-11-23 
+14:42:31.387","EndDate":"1977-12-10 06:58:09.767","PrimaryDiagnosisCode":"D12.9","PrimaryDiagnosisDescription":"Benign neoplasm of anus and anal canal"},"Visit4":{"StartDate":"1993-12-20 17:02:35.973","EndDate":"1993-12-28 
+11:52:18.707","PrimaryDiagnosisCode":"D31.41","PrimaryDiagnosisDescription":"Benign neoplasm of right ciliary body"},"Visit5":{"StartDate":"1997-04-01 15:15:29.713","EndDate":"1997-04-05 
+09:22:39.530","PrimaryDiagnosisCode":"M01.X1","PrimaryDiagnosisDescription":"Direct infection of shoulder joint in infectious and parasitic diseases classified elsewhere"},"Visit6":{"StartDate":"2012-09-22 
+18:05:49.240","EndDate":"2012-10-05 05:06:10.750","PrimaryDiagnosisCode":"Z22.31","PrimaryDiagnosisDescription":"Carrier of bacterial disease due to 
+meningococci"}}},"P2A8772FE61DB483EB6BF6C0A74BA9C2A":{"General":{"Gender":"Female","DOB":"1966-10-14","Race":"15:31:48.427","MaritalStatus":"Asian","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1991-10-19 
+23:31:13.850","EndDate":"1991-11-03 15:00:21.597","PrimaryDiagnosisCode":"C72.3","PrimaryDiagnosisDescription":"Malignant neoplasm of optic nerve"},"Visit2":{"StartDate":"2000-02-18 02:15:46.473","EndDate":"2000-03-03 
+06:26:57.133","PrimaryDiagnosisCode":"M05.13","PrimaryDiagnosisDescription":"Rheumatoid lung disease with rheumatoid arthritis of wrist"},"Visit3":{"StartDate":"2008-05-09 19:22:35.157","EndDate":"2008-05-28 
+03:42:47.820","PrimaryDiagnosisCode":"H15","PrimaryDiagnosisDescription":"Disorders of 
+sclera"}}},"PC65A4ADE112E49E4B72A0DED22C242ED":{"General":{"Gender":"Male","DOB":"1955-04-07","Race":"18:55:17.077","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1982-10-05 
+20:41:01.813","EndDate":"1982-10-17 21:39:57.057","PrimaryDiagnosisCode":"M05.27","PrimaryDiagnosisDescription":"Rheumatoid vasculitis with rheumatoid arthritis of ankle and foot"},"Visit2":{"StartDate":"2005-11-27 
+21:49:31.010","EndDate":"2005-11-30 20:23:48.277","PrimaryDiagnosisCode":"N16","PrimaryDiagnosisDescription":"Renal tubulo-interstitial disorders in diseases classified elsewhere"},"Visit3":{"StartDate":"2011-01-25 
+01:31:17.090","EndDate":"2011-02-09 12:30:19.433","PrimaryDiagnosisCode":"D35.2","PrimaryDiagnosisDescription":"Benign neoplasm of pituitary 
+gland"}}},"P80AC01B2BD554BE0A59A4024104CF4E9":{"General":{"Gender":"Female","DOB":"1965-05-14","Race":"15:25:09.740","MaritalStatus":"African","Language":"American"},"Administration":{"Visit1":{"StartDate":"1985-08-25 
+05:16:35.700","EndDate":"1985-09-10 03:54:56.920","PrimaryDiagnosisCode":"F06.1","PrimaryDiagnosisDescription":"Catatonic disorder due to known physiological condition"},"Visit2":{"StartDate":"1994-07-22 
+07:12:50.407","EndDate":"1994-07-28 12:29:05.827","PrimaryDiagnosisCode":"M01.X","PrimaryDiagnosisDescription":"Direct infection of joint in infectious and parasitic diseases classified 
+elsewhere"},"Visit3":{"StartDate":"2003-03-02 09:59:11.540","EndDate":"2003-03-22 01:31:32.883","PrimaryDiagnosisCode":"D65","PrimaryDiagnosisDescription":"Disseminated intravascular coagulation [defibrination 
+syndrome]"},"Visit4":{"StartDate":"2007-07-03 20:00:07.223","EndDate":"2007-07-08 14:23:38.367","PrimaryDiagnosisCode":"C92.1","PrimaryDiagnosisDescription":"Chronic myeloid leukemia, 
+BCR/ABL-positive"},"Visit5":{"StartDate":"2012-04-13 13:23:12.527","EndDate":"2012-04-24 21:10:59.800","PrimaryDiagnosisCode":"M05.51","PrimaryDiagnosisDescription":"Rheumatoid polyneuropathy with rheumatoid arthritis of 
+shoulder"}}},"P6A57AC0C57F34C1998A151135EFBC4FF":{"General":{"Gender":"Female","DOB":"1958-07-07","Race":"16:00:19.383","MaritalStatus":"Unknown","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1980-07-15 
+11:20:35.480","EndDate":"1980-07-24 09:05:29.623","PrimaryDiagnosisCode":"C91.00","PrimaryDiagnosisDescription":"Acute lymphoblastic leukemia not having achieved remission"},"Visit2":{"StartDate":"2003-01-23 
+15:16:00.507","EndDate":"2003-01-27 14:11:06.370","PrimaryDiagnosisCode":"G55","PrimaryDiagnosisDescription":"Nerve root and plexus compressions in diseases classified elsewhere"},"Visit3":{"StartDate":"2004-09-24 
+11:39:44.227","EndDate":"2004-10-11 19:23:34.477","PrimaryDiagnosisCode":"M51","PrimaryDiagnosisDescription":"Thoracic, thoracolumbar, and lumbosacral intervertebral disc disorders"},"Visit4":{"StartDate":"2004-10-17 
+05:19:47.157","EndDate":"2004-10-26 03:29:23.560","PrimaryDiagnosisCode":"O04.82","PrimaryDiagnosisDescription":"Renal failure following (induced) termination of pregnancy"},"Visit5":{"StartDate":"2012-01-10 
+18:36:46.137","EndDate":"2012-01-27 23:05:49.653","PrimaryDiagnosisCode":"C33","PrimaryDiagnosisDescription":"Malignant neoplasm of 
+trachea"}}},"P7A025E7778324F53B9A709A3F98AC17E":{"General":{"Gender":"Female","DOB":"1951-07-12","Race":"08:23:45.520","MaritalStatus":"Asian","Language":"Single"},"Administration":{"Visit7":{"StartDate":"2011-10-12 
+14:55:02.027","EndDate":"2011-10-22 01:16:07.557","PrimaryDiagnosisCode":"F06.3","PrimaryDiagnosisDescription":"Mood disorder due to known physiological condition"},"Visit1":{"StartDate":"1978-06-29 
+07:29:11.593","EndDate":"1978-07-10 04:05:51.787","PrimaryDiagnosisCode":"M05.442","PrimaryDiagnosisDescription":"Rheumatoid myopathy with rheumatoid arthritis of left hand"},"Visit2":{"StartDate":"1982-10-14 
+07:01:43.613","EndDate":"1982-10-21 16:44:00.310","PrimaryDiagnosisCode":"F12.15","PrimaryDiagnosisDescription":"Cannabis abuse with psychotic disorder"},"Visit3":{"StartDate":"1990-02-23 04:28:34.457","EndDate":"1990-03-13 
+15:55:29.837","PrimaryDiagnosisCode":"E10.43","PrimaryDiagnosisDescription":"Type 1 diabetes mellitus with diabetic autonomic (poly)neuropathy"},"Visit4":{"StartDate":"1994-05-15 11:34:00.840","EndDate":"1994-05-19 
+23:04:04.877","PrimaryDiagnosisCode":"M12.162","PrimaryDiagnosisDescription":"Kaschin-Beck disease, left knee"},"Visit5":{"StartDate":"2001-01-10 11:04:58.943","EndDate":"2001-01-27 
+00:54:18.730","PrimaryDiagnosisCode":"T43.3X1","PrimaryDiagnosisDescription":"Poisoning by phenothiazine antipsychotics and neuroleptics, accidental (unintentional)"},"Visit6":{"StartDate":"2001-12-29 
+20:28:01.050","EndDate":"2002-01-18 18:16:04.423","PrimaryDiagnosisCode":"C54.3","PrimaryDiagnosisDescription":"Malignant neoplasm of fundus 
+uteri"}}},"PDCE5AEB86DB941068AE402CCC5C23741":{"General":{"Gender":"Female","DOB":"1967-11-09","Race":"08:14:51.143","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1993-02-11 
+18:57:04.003","EndDate":"1993-02-24 17:22:29.713","PrimaryDiagnosisCode":"K91","PrimaryDiagnosisDescription":"Intraoperative and postprocedural complications and disorders of digestive system, not elsewhere 
+classified"},"Visit2":{"StartDate":"2002-11-28 19:06:31.117","EndDate":"2002-12-04 19:14:40.797","PrimaryDiagnosisCode":"F40.01","PrimaryDiagnosisDescription":"Agoraphobia with panic disorder"},"Visit3":{"StartDate":"2011-07-19 
+18:42:45.287","EndDate":"2011-07-25 04:57:42.053","PrimaryDiagnosisCode":"C40.11","PrimaryDiagnosisDescription":"Malignant neoplasm of short bones of right upper 
+limb"}}},"P886B58851EE249F398D5A2F02EB8A9D4":{"General":{"Gender":"Female","DOB":"1970-04-27","Race":"09:15:11.080","MaritalStatus":"Unknown","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1994-12-03 
+22:20:46.077","EndDate":"1994-12-20 20:24:56.010","PrimaryDiagnosisCode":"M05.752","PrimaryDiagnosisDescription":"Rheumatoid arthritis with rheumatoid factor of left hip without organ or systems 
+involvement"},"Visit2":{"StartDate":"2007-10-26 23:43:13.310","EndDate":"2007-11-01 06:54:26.723","PrimaryDiagnosisCode":"I97.81","PrimaryDiagnosisDescription":"Intraoperative cerebrovascular 
+infarction"},"Visit3":{"StartDate":"2009-05-24 16:55:08.567","EndDate":"2009-05-26 20:15:49.657","PrimaryDiagnosisCode":"D37.02","PrimaryDiagnosisDescription":"Neoplasm of uncertain behavior of 
+tongue"}}},"P0E0EADE855924E0B9F88D7596E32EE08":{"General":{"Gender":"Female","DOB":"1942-07-13","Race":"21:15:37.517","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1970-05-12 
+08:54:02.500","EndDate":"1970-05-23 21:22:35.027","PrimaryDiagnosisCode":"C94.6","PrimaryDiagnosisDescription":"Myelodysplastic disease, not classified"},"Visit2":{"StartDate":"2002-01-09 00:46:30.870","EndDate":"2002-01-12 
+19:17:15.703","PrimaryDiagnosisCode":"M05.49","PrimaryDiagnosisDescription":"Rheumatoid myopathy with rheumatoid arthritis of multiple sites"},"Visit3":{"StartDate":"2008-02-27 05:36:05.627","EndDate":"2008-03-07 
+01:56:29.463","PrimaryDiagnosisCode":"M84.51","PrimaryDiagnosisDescription":"Pathological fracture in neoplastic disease, 
+shoulder"}}},"P0681FA35A794468497BD00B88370DB41":{"General":{"Gender":"Female","DOB":"1978-10-02","Race":"21:46:05.300","MaritalStatus":"Asian","Language":"Unknown"},"Administration":{"Visit1":{"StartDate":"1998-06-21 
+17:02:06.170","EndDate":"1998-07-09 14:19:27.510","PrimaryDiagnosisCode":"C92.51","PrimaryDiagnosisDescription":"Acute myelomonocytic leukemia, in remission"},"Visit2":{"StartDate":"2010-11-06 
+11:41:58.847","EndDate":"2010-11-21 
+17:39:59.450","PrimaryDiagnosisCode":"M02.38","PrimaryDiagnosisDescription":"Reiter's disease, 
+vertebrae"}}},"P2E26695AEFB04C7F9318E3030B154E39":{"General":{"Gender":"Female","DOB":"1963-06-28","Race":"05:37:36.843","MaritalStatus":"Asian","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1988-01-01 
+21:46:12.720","EndDate":"1988-01-04 08:06:58.813","PrimaryDiagnosisCode":"D12.7","PrimaryDiagnosisDescription":"Benign neoplasm of rectosigmoid junction"},"Visit2":{"StartDate":"2012-10-16 18:00:50.050","EndDate":"2012-10-28 
+15:50:09.043","PrimaryDiagnosisCode":"C38.2","PrimaryDiagnosisDescription":"Malignant neoplasm of posterior 
+mediastinum"}}},"PDDC0BC577A4E4E029282177750B74FBC":{"General":{"Gender":"Male","DOB":"1921-03-26","Race":"14:38:51.803","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1947-03-19 
+13:22:34.717","EndDate":"1947-03-26 22:43:46.597","PrimaryDiagnosisCode":"C79.72","PrimaryDiagnosisDescription":"Secondary malignant neoplasm of left adrenal gland"},"Visit2":{"StartDate":"1999-09-02 
+00:00:01.583","EndDate":"1999-09-05 01:26:43.363","PrimaryDiagnosisCode":"B95.62","PrimaryDiagnosisDescription":"Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified 
+elsewhere"},"Visit3":{"StartDate":"2005-07-28 01:50:58.930","EndDate":"2005-08-06 09:47:44.790","PrimaryDiagnosisCode":"C05.1","PrimaryDiagnosisDescription":"Malignant neoplasm of soft palate"},"Visit4":{"StartDate":"2009-04-09 
+19:08:50.537","EndDate":"2009-04-16 20:22:37.603","PrimaryDiagnosisCode":"A52.0","PrimaryDiagnosisDescription":"Cardiovascular and cerebrovascular 
+syphilis"}}},"PE250799DF6DE4914ADB4B08A6E5029B9":{"General":{"Gender":"Female","DOB":"1945-08-04","Race":"19:03:00.757","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1967-06-02 
+08:43:45.987","EndDate":"1967-06-14 09:59:12.247","PrimaryDiagnosisCode":"M06.31","PrimaryDiagnosisDescription":"Rheumatoid nodule, shoulder"},"Visit2":{"StartDate":"1983-11-10 04:11:38.053","EndDate":"1983-11-26 
+04:07:03.140","PrimaryDiagnosisCode":"E09.62","PrimaryDiagnosisDescription":"Drug or chemical induced diabetes mellitus with skin complications"},"Visit3":{"StartDate":"1999-04-23 00:03:27.033","EndDate":"1999-05-07 
+10:14:04.287","PrimaryDiagnosisCode":"T43.3X","PrimaryDiagnosisDescription":"Poisoning by, adverse effect of and underdosing of phenothiazine antipsychotics and neuroleptics"},"Visit4":{"StartDate":"2001-11-11 
+02:54:41.303","EndDate":"2001-11-14 08:07:24.370","PrimaryDiagnosisCode":"F21","PrimaryDiagnosisDescription":"Schizotypal disorder"},"Visit5":{"StartDate":"2010-07-21 19:55:14.637","EndDate":"2010-08-09 
+17:59:47.437","PrimaryDiagnosisCode":"C37","PrimaryDiagnosisDescription":"Malignant neoplasm of 
+thymus"}}},"P9C75DF1F9DA64C988F5BE10BDC805ED0":{"General":{"Gender":"Female","DOB":"1952-07-19","Race":"13:35:56.833","MaritalStatus":"White","Language":"Divorced"},"Administration":{"Visit1":{"StartDate":"1980-07-19 
+06:43:54.880","EndDate":"1980-07-25 12:16:06.527","PrimaryDiagnosisCode":"Z13.810","PrimaryDiagnosisDescription":"Encounter for screening for upper gastrointestinal disorder"},"Visit2":{"StartDate":"2010-10-24 
+17:36:06.953","EndDate":"2010-11-07 11:56:48.743","PrimaryDiagnosisCode":"O24.410","PrimaryDiagnosisDescription":"Gestational diabetes mellitus in pregnancy, diet 
+controlled"}}},"PA19A0B004C9A4206B1FE17E6DA3CEB0B":{"General":{"Gender":"Female","DOB":"1967-07-01","Race":"01:44:24.907","MaritalStatus":"Unknown","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1989-06-14 
+08:22:05.597","EndDate":"1989-06-20 23:50:43.837","PrimaryDiagnosisCode":"Z13.83","PrimaryDiagnosisDescription":"Encounter for screening for respiratory disorder NEC"},"Visit2":{"StartDate":"1995-05-31 
+09:17:32.943","EndDate":"1995-06-14 21:53:25.230","PrimaryDiagnosisCode":"F45.41","PrimaryDiagnosisDescription":"Pain disorder exclusively related to psychological factors"},"Visit3":{"StartDate":"2009-11-26 
+01:44:30.783","EndDate":"2009-11-28 04:11:10.680","PrimaryDiagnosisCode":"M06.222","PrimaryDiagnosisDescription":"Rheumatoid bursitis, left 
+elbow"}}},"PE547891368194977BB114C8B61175B56":{"General":{"Gender":"Female","DOB":"1980-03-21","Race":"13:08:56.867","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"2003-11-02 
+09:24:12.913","EndDate":"2003-11-22 05:04:47.533","PrimaryDiagnosisCode":"D39.12","PrimaryDiagnosisDescription":"Neoplasm of uncertain behavior of left ovary"},"Visit2":{"StartDate":"2012-08-08 
+05:21:56.187","EndDate":"2012-08-18 15:13:45.687","PrimaryDiagnosisCode":"M84.552","PrimaryDiagnosisDescription":"Pathological fracture in neoplastic disease, left 
+femur"}}},"P66154E24D3EE431189DB6195278F9B3C":{"General":{"Gender":"Female","DOB":"1944-08-26","Race":"13:03:24.297","MaritalStatus":"White","Language":"Divorced"},"Administration":{"Visit1":{"StartDate":"1964-12-17 
+00:01:55.227","EndDate":"1964-12-24 11:46:04.590","PrimaryDiagnosisCode":"O99.41","PrimaryDiagnosisDescription":"Diseases of the circulatory system complicating pregnancy"},"Visit2":{"StartDate":"1983-11-01 
+14:05:42.103","EndDate":"1983-11-10 02:00:24.117","PrimaryDiagnosisCode":"O04.86","PrimaryDiagnosisDescription":"Cardiac arrest following (induced) termination of pregnancy"},"Visit3":{"StartDate":"1984-10-16 
+16:46:02.203","EndDate":"1984-10-30 11:03:40.367","PrimaryDiagnosisCode":"B97.11","PrimaryDiagnosisDescription":"Coxsackievirus as the cause of diseases classified elsewhere"},"Visit4":{"StartDate":"2005-09-21 
+10:57:04.053","EndDate":"2005-10-09 12:44:36.707","PrimaryDiagnosisCode":"B97.34","PrimaryDiagnosisDescription":"Human T-cell lymphotrophic virus, type II [HTLV-II] as the cause of diseases classified 
+elsewhere"},"Visit5":{"StartDate":"2009-06-25 18:46:14.813","EndDate":"2009-07-10 10:08:45.813","PrimaryDiagnosisCode":"D37.3","PrimaryDiagnosisDescription":"Neoplasm of uncertain behavior of 
+appendix"}}},"PBC44CE199FC54AC9A2969EBC5E3D03AE":{"General":{"Gender":"Female","DOB":"1953-06-04","Race":"03:16:17.843","MaritalStatus":"African","Language":"American"},"Administration":{"Visit1":{"StartDate":"1972-11-19 
+13:27:59.980","EndDate":"1972-11-24 20:51:54.413","PrimaryDiagnosisCode":"O07.32","PrimaryDiagnosisDescription":"Renal failure following failed attempted termination of pregnancy"},"Visit2":{"StartDate":"2002-07-07 
+17:13:06.863","EndDate":"2002-07-23 18:13:02.260","PrimaryDiagnosisCode":"D28.0","PrimaryDiagnosisDescription":"Benign neoplasm of vulva"},"Visit3":{"StartDate":"2011-06-14 08:31:38.107","EndDate":"2011-06-25 
+00:29:44.100","PrimaryDiagnosisCode":"M11.05","PrimaryDiagnosisDescription":"Hydroxyapatite deposition disease, 
+hip"}}},"PCC9CDA72B37A4F8FAFE4B08F56A183BE":{"General":{"Gender":"Female","DOB":"1942-04-14","Race":"14:01:01.130","MaritalStatus":"Asian","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1967-04-12 
+04:38:52.120","EndDate":"1967-04-28 07:08:18.400","PrimaryDiagnosisCode":"I25.110","PrimaryDiagnosisDescription":"Atherosclerotic heart disease of native coronary artery with unstable angina 
+pectoris"},"Visit2":{"StartDate":"2011-01-02 01:15:20.380","EndDate":"2011-01-16 20:33:22.587","PrimaryDiagnosisCode":"M63.851","PrimaryDiagnosisDescription":"Disorders of muscle in diseases classified elsewhere, right 
+thigh"}}},"PEA9B67E215F0450BA8A614F6E4AE3D12":{"General":{"Gender":"Female","DOB":"1930-04-08","Race":"20:59:31.057","MaritalStatus":"Asian","Language":"Separated"},"Administration":{"Visit1":{"StartDate":"1948-07-05 
+14:58:24.420","EndDate":"1948-07-21 05:49:35.460","PrimaryDiagnosisCode":"E72.4","PrimaryDiagnosisDescription":"Disorders of ornithine metabolism"},"Visit2":{"StartDate":"1988-05-21 20:16:46.237","EndDate":"1988-05-26 
+10:39:11.473","PrimaryDiagnosisCode":"C34.2","PrimaryDiagnosisDescription":"Malignant neoplasm of middle lobe, bronchus or lung"},"Visit3":{"StartDate":"2010-08-22 10:47:02.917","EndDate":"2010-09-03 
+03:42:32.747","PrimaryDiagnosisCode":"H16.433","PrimaryDiagnosisDescription":"Localized vascularization of cornea, 
+bilateral"}}},"P3E462A8F7B9043A1A8B6AD82CB5002C9":{"General":{"Gender":"Female","DOB":"1986-12-20","Race":"16:41:34.793","MaritalStatus":"White","Language":"Married"},"Administration":{"Visit1":{"StartDate":"2013-01-14 
+04:37:39.037","EndDate":"2013-01-29 14:53:17.903","PrimaryDiagnosisCode":"O24.111","PrimaryDiagnosisDescription":"Pre-existing diabetes mellitus, type 2, in pregnancy, first 
+trimester"}}},"P9E18822E7D1345C7B50EF95CFF92BC3E":{"General":{"Gender":"Male","DOB":"1954-10-16","Race":"06:45:56.257","MaritalStatus":"Unknown","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1978-08-19 
+01:42:03.143","EndDate":"1978-08-29 21:16:16.157","PrimaryDiagnosisCode":"Z13.0","PrimaryDiagnosisDescription":"Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the 
+immune mechanism"},"Visit2":{"StartDate":"2003-05-10 00:00:51.820","EndDate":"2003-05-19 01:36:47.843","PrimaryDiagnosisCode":"M90.6","PrimaryDiagnosisDescription":"Osteitis deformans in neoplastic 
+diseases"},"Visit3":{"StartDate":"2009-03-07 05:34:03.073","EndDate":"2009-03-25 07:13:28.233","PrimaryDiagnosisCode":"I79.0","PrimaryDiagnosisDescription":"Aneurysm of aorta in diseases classified 
+elsewhere"}}},"PA7142B71A1444D56BD143E966B01DB37":{"General":{"Gender":"Male","DOB":"1960-03-28","Race":"13:40:52.270","MaritalStatus":"White","Language":"Divorced"},"Administration":{"Visit1":{"StartDate":"1983-09-15 
+16:32:28.587","EndDate":"1983-09-21 17:24:27.270","PrimaryDiagnosisCode":"M24.22","PrimaryDiagnosisDescription":"Disorder of ligament, elbow"},"Visit2":{"StartDate":"1992-06-13 21:58:11.263","EndDate":"1992-06-30 
+17:16:38.870","PrimaryDiagnosisCode":"O99.43","PrimaryDiagnosisDescription":"Diseases of the circulatory system complicating the puerperium"},"Visit3":{"StartDate":"1993-04-01 00:41:35.363","EndDate":"1993-04-05 
+07:16:17.447","PrimaryDiagnosisCode":"M05.132","PrimaryDiagnosisDescription":"Rheumatoid lung disease with rheumatoid arthritis of left wrist"},"Visit4":{"StartDate":"1997-03-10 13:21:34.317","EndDate":"1997-03-14 
+11:31:59.847","PrimaryDiagnosisCode":"E11.331","PrimaryDiagnosisDescription":"Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema"},"Visit5":{"StartDate":"2008-08-15 
+22:41:51.243","EndDate":"2008-08-22 02:09:57.560","PrimaryDiagnosisCode":"E10.331","PrimaryDiagnosisDescription":"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular 
+edema"}}},"PFE0B9B59192745B78556E079DC1DE30A":{"General":{"Gender":"Male","DOB":"1955-08-23","Race":"01:01:22.260","MaritalStatus":"White","Language":"Divorced"},"Administration":{"Visit1":{"StartDate":"1978-09-18 
+14:59:25.877","EndDate":"1978-09-24 10:26:14.790","PrimaryDiagnosisCode":"C03.0","PrimaryDiagnosisDescription":"Malignant neoplasm of upper gum"},"Visit2":{"StartDate":"1996-07-18 11:54:05.500","EndDate":"1996-07-28 
+23:48:09.407","PrimaryDiagnosisCode":"K76.7","PrimaryDiagnosisDescription":"Hepatorenal syndrome"},"Visit3":{"StartDate":"2010-06-14 06:39:54.093","EndDate":"2010-06-22 
+10:21:08.230","PrimaryDiagnosisCode":"C75.3","PrimaryDiagnosisDescription":"Malignant neoplasm of pineal 
+gland"}}},"P98F593D2889449BB93B95A0E2CF85E2E":{"General":{"Gender":"Female","DOB":"1944-07-15","Race":"19:04:11.487","MaritalStatus":"African","Language":"American"},"Administration":{"Visit1":{"StartDate":"1965-08-08 
+03:44:16.423","EndDate":"1965-08-24 03:53:46.330","PrimaryDiagnosisCode":"Z12.2","PrimaryDiagnosisDescription":"Encounter for screening for malignant neoplasm of respiratory organs"},"Visit2":{"StartDate":"1967-04-04 
+19:57:22.033","EndDate":"1967-04-11 05:42:10.533","PrimaryDiagnosisCode":"I08.1","PrimaryDiagnosisDescription":"Rheumatic disorders of both mitral and tricuspid valves"},"Visit3":{"StartDate":"1987-07-21 
+01:39:09.930","EndDate":"1987-07-31 14:32:45.883","PrimaryDiagnosisCode":"F52.3","PrimaryDiagnosisDescription":"Orgasmic disorder"},"Visit4":{"StartDate":"2005-01-17 16:06:58.350","EndDate":"2005-01-24 
+03:16:22.850","PrimaryDiagnosisCode":"C94.32","PrimaryDiagnosisDescription":"Mast cell leukemia, in relapse"},"Visit5":{"StartDate":"2008-09-12 11:54:45.020","EndDate":"2008-09-23 
+08:39:17.050","PrimaryDiagnosisCode":"M06.2","PrimaryDiagnosisDescription":"Rheumatoid 
+bursitis"}}},"P1A220558599643E1AE5D7B96180FED35":{"General":{"Gender":"Male","DOB":"1937-09-07","Race":"22:23:53.143","MaritalStatus":"Asian","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1964-02-25 
+17:05:08.243","EndDate":"1964-03-16 15:09:11.637","PrimaryDiagnosisCode":"C69.61","PrimaryDiagnosisDescription":"Malignant neoplasm of right orbit"},"Visit2":{"StartDate":"1979-04-18 18:32:25.843","EndDate":"1979-04-21 
+04:18:01.013","PrimaryDiagnosisCode":"I08.1","PrimaryDiagnosisDescription":"Rheumatic disorders of both mitral and tricuspid valves"},"Visit3":{"StartDate":"2012-06-09 18:41:49.740","EndDate":"2012-06-25 
+08:17:55.600","PrimaryDiagnosisCode":"Q24.3","PrimaryDiagnosisDescription":"Pulmonary infundibular 
+stenosis"}}},"P7A7332AD88B148489356E5260E477C59":{"General":{"Gender":"Female","DOB":"1944-12-01","Race":"06:30:01.543","MaritalStatus":"Unknown","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1968-09-24 
+07:49:35.537","EndDate":"1968-10-11 13:09:40.553","PrimaryDiagnosisCode":"O10.213","PrimaryDiagnosisDescription":"Pre-existing hypertensive chronic kidney disease complicating pregnancy, third 
+trimester"},"Visit2":{"StartDate":"1979-02-10 02:09:18.110","EndDate":"1979-02-23 09:01:35.220","PrimaryDiagnosisCode":"O98.63","PrimaryDiagnosisDescription":"Protozoal diseases complicating the 
+puerperium"},"Visit3":{"StartDate":"1985-05-16 23:24:40.390","EndDate":"1985-06-03 18:10:24.500","PrimaryDiagnosisCode":"E09.621","PrimaryDiagnosisDescription":"Drug or chemical induced diabetes mellitus with foot 
+ulcer"},"Visit4":{"StartDate":"2006-01-16 08:54:35.720","EndDate":"2006-02-02 07:25:33.990","PrimaryDiagnosisCode":"K57.5","PrimaryDiagnosisDescription":"Diverticular disease of both small and large intestine without 
+perforation 
+or abscess"},"Visit5":{"StartDate":"2009-08-22 13:04:16.677","EndDate":"2009-09-10 01:16:39.053","PrimaryDiagnosisCode":"C91.0","PrimaryDiagnosisDescription":"Acute lymphoblastic leukemia 
+[ALL]"}}},"P6D5DCAC117FE4D7C923B806EFBA3E6DF":{"General":{"Gender":"Male","DOB":"1961-10-22","Race":"02:47:13.170","MaritalStatus":"Asian","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1980-02-22 
+23:13:21.727","EndDate":"1980-03-02 22:43:57.087","PrimaryDiagnosisCode":"M90.51","PrimaryDiagnosisDescription":"Osteonecrosis in diseases classified elsewhere, shoulder"},"Visit2":{"StartDate":"2001-02-02 
+22:56:06.847","EndDate":"2001-02-17 09:59:46.473","PrimaryDiagnosisCode":"E08.32","PrimaryDiagnosisDescription":"Diabetes mellitus due to underlying condition with mild nonproliferative diabetic 
+retinopathy"},"Visit3":{"StartDate":"2001-05-18 00:24:34.150","EndDate":"2001-05-26 01:03:12.713","PrimaryDiagnosisCode":"M49.84","PrimaryDiagnosisDescription":"Spondylopathy in diseases classified elsewhere, thoracic 
+region"},"Visit4":{"StartDate":"2011-11-10 14:09:32.013","EndDate":"2011-11-16 22:45:43.603","PrimaryDiagnosisCode":"D48.2","PrimaryDiagnosisDescription":"Neoplasm of uncertain behavior of peripheral nerves and autonomic 
+nervous 
+system"}}},"P36E2F89E777A4D779D950D70A8AB416F":{"General":{"Gender":"Male","DOB":"1980-05-30","Race":"13:23:50.703","MaritalStatus":"African","Language":"American"},"Administration":{"Visit1":{"StartDate":"2000-03-30 
+05:44:33.073","EndDate":"2000-04-18 04:09:54.043","PrimaryDiagnosisCode":"F63.81","PrimaryDiagnosisDescription":"Intermittent explosive disorder"},"Visit2":{"StartDate":"2004-11-11 16:12:00.153","EndDate":"2004-11-20 
+02:39:47.213","PrimaryDiagnosisCode":"O9A.5","PrimaryDiagnosisDescription":"Psychological abuse complicating pregnancy, childbirth and the puerperium"},"Visit3":{"StartDate":"2008-07-17 01:23:05.590","EndDate":"2008-07-20 
+08:40:07.723","PrimaryDiagnosisCode":"S37.812","PrimaryDiagnosisDescription":"Contusion of adrenal 
+gland"}}},"P672D554BD6D140B2A6A421A4CB6B1AA6":{"General":{"Gender":"Male","DOB":"1983-06-17","Race":"04:46:13.753","MaritalStatus":"African","Language":"American"},"Administration":{"Visit1":{"StartDate":"2006-10-31 
+09:01:42.630","EndDate":"2006-11-03 06:31:05.643","PrimaryDiagnosisCode":"O10.13","PrimaryDiagnosisDescription":"Pre-existing hypertensive heart disease complicating the puerperium"},"Visit2":{"StartDate":"2009-02-06 
+03:02:12.050","EndDate":"2009-02-17 21:50:21.223","PrimaryDiagnosisCode":"O99.43","PrimaryDiagnosisDescription":"Diseases of the circulatory system complicating the 
+puerperium"}}},"P03A481F5B32A4A91BD4243EB78FEBA77":{"General":{"Gender":"Female","DOB":"1968-02-07","Race":"23:02:38.017","MaritalStatus":"Asian","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1988-11-25 
+10:01:04.613","EndDate":"1988-12-01 01:41:51.760","PrimaryDiagnosisCode":"C94.22","PrimaryDiagnosisDescription":"Acute megakaryoblastic leukemia, in relapse"},"Visit2":{"StartDate":"2008-02-19 
+17:23:11.790","EndDate":"2008-03-05 
+07:50:00.083","PrimaryDiagnosisCode":"A48.2","PrimaryDiagnosisDescription":"Nonpneumonic Legionnaires' disease [Pontiac 
+fever]"}}},"P2A5251B1094547FAA65C7A6381562591":{"General":{"Gender":"Female","DOB":"1942-01-07","Race":"16:45:33.060","MaritalStatus":"Unknown","Language":"Married"},"Administration":{"Visit1":{"StartDate":"1962-06-27 
+17:38:36.307","EndDate":"1962-07-13 07:11:10.357","PrimaryDiagnosisCode":"C11","PrimaryDiagnosisDescription":"Malignant neoplasm of nasopharynx"},"Visit2":{"StartDate":"1994-05-06 04:57:00.433","EndDate":"1994-05-20 
+08:06:03.480","PrimaryDiagnosisCode":"F16.151","PrimaryDiagnosisDescription":"Hallucinogen abuse with hallucinogen-induced psychotic disorder with hallucinations"},"Visit3":{"StartDate":"1998-11-01 
+20:26:51.947","EndDate":"1998-11-07 18:26:11.330","PrimaryDiagnosisCode":"M05.23","PrimaryDiagnosisDescription":"Rheumatoid vasculitis with rheumatoid arthritis of wrist"},"Visit4":{"StartDate":"2001-02-06 
+20:48:36.210","EndDate":"2001-02-16 14:25:20.277","PrimaryDiagnosisCode":"M84","PrimaryDiagnosisDescription":"Disorder of continuity of bone"},"Visit5":{"StartDate":"2001-07-04 01:46:42.637","EndDate":"2001-07-09 
+17:50:38.630","PrimaryDiagnosisCode":"K50.01","PrimaryDiagnosisDescription":"Crohn's disease of small intestine with complications"},"Visit6":{"StartDate":"2009-12-05 06:03:08.493","EndDate":"2009-12-16 
+17:19:47.710","PrimaryDiagnosisCode":"F95.1","PrimaryDiagnosisDescription":"Chronic motor or vocal tic 
+disorder"}}},"P8AF4746385344203B210C2290F6CE689":{"General":{"Gender":"Female","DOB":"1952-06-27","Race":"17:29:04.187","MaritalStatus":"White","Language":"Divorced"},"Administration":{"Visit1":{"StartDate":"1974-11-22 
+11:00:35.987","EndDate":"1974-11-29 20:15:28.313","PrimaryDiagnosisCode":"I43","PrimaryDiagnosisDescription":"Cardiomyopathy in diseases classified elsewhere"},"Visit2":{"StartDate":"1998-03-10 
+07:54:00.890","EndDate":"1998-03-26 02:14:34.737","PrimaryDiagnosisCode":"M90.522","PrimaryDiagnosisDescription":"Osteonecrosis in diseases classified elsewhere, left upper arm"},"Visit3":{"StartDate":"2005-03-23 
+02:32:09.067","EndDate":"2005-04-03 07:38:26.190","PrimaryDiagnosisCode":"F14.15","PrimaryDiagnosisDescription":"Cocaine abuse with cocaine-induced psychotic disorder"},"Visit4":{"StartDate":"2005-12-30 
+05:22:23.737","EndDate":"2006-01-02 10:16:19.067","PrimaryDiagnosisCode":"O24.013","PrimaryDiagnosisDescription":"Pre-existing diabetes mellitus, type 1, in pregnancy, third trimester"},"Visit5":{"StartDate":"2011-11-18 
+01:01:27.167","EndDate":"2011-11-20 19:23:46.317","PrimaryDiagnosisCode":"D55.2","PrimaryDiagnosisDescription":"Anemia due to disorders of glycolytic 
+enzymes"}}},"P135C831F7DA546C0959CEBCBD8810B43":{"General":{"Gender":"Male","DOB":"1971-05-13","Race":"04:40:05.623","MaritalStatus":"White","Language":"Unknown"},"Administration":{"Visit1":{"StartDate":"1993-04-24 
+06:21:44.210","EndDate":"1993-04-30 07:05:16.027","PrimaryDiagnosisCode":"E09.359","PrimaryDiagnosisDescription":"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy without macular 
+edema"},"Visit2":{"StartDate":"2001-02-17 08:12:52.013","EndDate":"2001-02-22 05:45:07.190","PrimaryDiagnosisCode":"M49.87","PrimaryDiagnosisDescription":"Spondylopathy in diseases classified elsewhere, lumbosacral 
+region"},"Visit3":{"StartDate":"2002-03-22 09:13:51.577","EndDate":"2002-03-26 19:03:47.040","PrimaryDiagnosisCode":"I25.10","PrimaryDiagnosisDescription":"Atherosclerotic heart disease of native coronary artery without angina 
+pectoris"},"Visit4":{"StartDate":"2007-09-30 01:46:55.247","EndDate":"2007-10-05 17:55:31.143","PrimaryDiagnosisCode":"M90.632","PrimaryDiagnosisDescription":"Osteitis deformans in neoplastic diseases, left 
+forearm"},"Visit5":{"StartDate":"2010-08-26 05:15:19.353","EndDate":"2010-09-02 19:07:43.873","PrimaryDiagnosisCode":"M05.17","PrimaryDiagnosisDescription":"Rheumatoid lung disease with rheumatoid arthritis of ankle and 
+foot"}}},"P8856096EE59C4156A767C091AF799C80":{"General":{"Gender":"Female","DOB":"1988-11-25","Race":"02:59:36.373","MaritalStatus":"White","Language":"Divorced"},"Administration":{"Visit1":{"StartDate":"2008-02-03 
+21:36:34.200","EndDate":"2008-02-11 21:48:33.480","PrimaryDiagnosisCode":"M90.6","PrimaryDiagnosisDescription":"Osteitis deformans in neoplastic 
+diseases"}}},"P6623F5D6D58142689F9B21612FBBF7B5":{"General":{"Gender":"Female","DOB":"1943-02-17","Race":"15:36:13.787","MaritalStatus":"Asian","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1962-07-16 
+22:31:39.413","EndDate":"1962-08-03 20:12:50.693","PrimaryDiagnosisCode":"C72.1","PrimaryDiagnosisDescription":"Malignant neoplasm of cauda equina"},"Visit2":{"StartDate":"1965-09-23 22:38:23.817","EndDate":"1965-10-02 
+03:55:42.533","PrimaryDiagnosisCode":"K71.50","PrimaryDiagnosisDescription":"Toxic liver disease with chronic active hepatitis without ascites"},"Visit3":{"StartDate":"1970-04-24 03:03:41.243","EndDate":"1970-05-08 
+10:28:24.230","PrimaryDiagnosisCode":"Z12.71","PrimaryDiagnosisDescription":"Encounter for screening for malignant neoplasm of testis"},"Visit4":{"StartDate":"1973-12-09 19:18:32.577","EndDate":"1973-12-25 
+08:53:33.347","PrimaryDiagnosisCode":"M02.352","PrimaryDiagnosisDescription":"Reiter's disease, left hip"},"Visit5":{"StartDate":"2009-07-01 18:32:35.607","EndDate":"2009-07-06 
+13:29:41.370","PrimaryDiagnosisCode":"C94.32","PrimaryDiagnosisDescription":"Mast cell leukemia, in 
+relapse"}}},"P65A7FBE0EA9F49E99824D8F3AD98DAC0":{"General":{"Gender":"Female","DOB":"1962-11-30","Race":"06:28:33.110","MaritalStatus":"White","Language":"Separated"},"Administration":{"Visit1":{"StartDate":"1987-03-04 
+01:09:21.620","EndDate":"1987-03-22 16:03:05.973","PrimaryDiagnosisCode":"F12.180","PrimaryDiagnosisDescription":"Cannabis abuse with cannabis-induced anxiety disorder"},"Visit2":{"StartDate":"2003-07-09 
+22:00:00.733","EndDate":"2003-07-16 04:51:39.403","PrimaryDiagnosisCode":"S35.415","PrimaryDiagnosisDescription":"Laceration of left renal vein"},"Visit3":{"StartDate":"2007-09-12 20:32:28.533","EndDate":"2007-09-25 
+16:06:08.820","PrimaryDiagnosisCode":"K08.422","PrimaryDiagnosisDescription":"Partial loss of teeth due to periodontal diseases, class II"},"Visit4":{"StartDate":"2008-02-13 04:16:00.260","EndDate":"2008-02-28 
+23:59:29.533","PrimaryDiagnosisCode":"O10.11","PrimaryDiagnosisDescription":"Pre-existing hypertensive heart disease complicating 
+pregnancy"}}},"PFB909FAE72DD4F6F9828D92183DF185F":{"General":{"Gender":"Male","DOB":"1940-07-15","Race":"12:18:41.080","MaritalStatus":"White","Language":"Single"},"Administration":{"Visit1":{"StartDate":"1959-08-17 
+01:18:01.977","EndDate":"1959-09-01 05:04:25.253","PrimaryDiagnosisCode":"C18.3","PrimaryDiagnosisDescription":"Malignant neoplasm of hepatic flexure"},"Visit2":{"StartDate":"2005-07-31 17:51:35.850","EndDate":"2005-08-06 
+10:09:42.897","PrimaryDiagnosisCode":"O24.42","PrimaryDiagnosisDescription":"Gestational diabetes mellitus in childbirth"},"Visit3":{"StartDate":"2008-04-05 18:15:52.820","EndDate":"2008-04-15 
+01:47:51.040","PrimaryDiagnosisCode":"C62.0","PrimaryDiagnosisDescription":"Malignant neoplasm of undescended testis"}}}}
